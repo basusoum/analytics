@@ -1,0 +1,8 @@
+{
+  "generatedAt": "2026-04-17 00:00:00",
+  "roles": {
+    "pivot": "/data/pivot_visualization.csv",
+    "projection": "/data/projection_results.csv",
+    "triage": "/data/Alert_Center_Report.csv"
+  }
+}

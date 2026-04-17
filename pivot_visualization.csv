@@ -1,0 +1,601 @@
+﻿SKU,Site ID,Site,Site Type,Region,Location,Category,SKU_Category,Figure Name,2026-02-08,2026-02-15,2026-02-22,2026-03-01,2026-03-08,2026-03-15,2026-03-22,2026-03-29,2026-04-05,2026-04-12,2026-04-19,2026-04-26
+SKU_0001,DC1,DC1,DC,Northeast,New York,Medical Devices & Diagnostics,B,Start Inventory,316,396,454,562,615,940,1084,1107,1161,1115,1466,1592
+SKU_0001,DC1,DC1,DC,Northeast,New York,Medical Devices & Diagnostics,B,Total Forecast/Order,66,47,58,78,76,49,68,77,46,56,70,60
+SKU_0001,DC1,DC1,DC,Northeast,New York,Medical Devices & Diagnostics,B,Start Backorder,0,0,0,0,0,0,0,0,0,0,0,0
+SKU_0001,DC1,DC1,DC,Northeast,New York,Medical Devices & Diagnostics,B,Total Demand,66,47,58,78,76,49,68,77,46,56,70,60
+SKU_0001,DC1,DC1,DC,Northeast,New York,Medical Devices & Diagnostics,B,Dist. Receipt Planned,0,105,166,0,401,0,0,131,0,407,196,0
+SKU_0001,DC1,DC1,DC,Northeast,New York,Medical Devices & Diagnostics,B,Total Supply,146,105,166,131,401,193,91,131,0,407,196,66
+SKU_0001,DC1,DC1,DC,Northeast,New York,Medical Devices & Diagnostics,B,End. Backorder,0,0,0,0,0,0,0,0,0,0,0,0
+SKU_0001,DC1,DC1,DC,Northeast,New York,Medical Devices & Diagnostics,B,End. Inventory,396,454,562,615,940,1084,1107,1161,1115,1466,1592,1598
+SKU_0001,DC1,DC1,DC,Northeast,New York,Medical Devices & Diagnostics,B,Days of Coverage,42.0,67.6,67.8,55.2,86.6,154.9,114.0,105.5,169.7,183.2,159.2,186.4
+SKU_0001,DC1,DC1,DC,Northeast,New York,Medical Devices & Diagnostics,B,Target Safety Stock (in Days),28,28,28,28,28,28,28,28,28,28,28,28
+SKU_0001,DC1,DC1,DC,Northeast,New York,Medical Devices & Diagnostics,B,Target Safety Stock (in Units),264,264,264,264,264,264,264,264,264,264,264,264
+SKU_0001,DC1,DC1,DC,Northeast,New York,Medical Devices & Diagnostics,B,Cycle Stock (in Days),14,14,14,14,14,14,14,14,14,14,14,14
+SKU_0001,DC1,DC1,DC,Northeast,New York,Medical Devices & Diagnostics,B,Cycle Stock (in Units),132,132,132,132,132,132,132,132,132,132,132,132
+SKU_0001,DC1,DC1,DC,Northeast,New York,Medical Devices & Diagnostics,B,Target Max Stock (in Days),59,59,59,59,59,59,59,59,59,59,59,59
+SKU_0001,DC1,DC1,DC,Northeast,New York,Medical Devices & Diagnostics,B,Target Max Stock (in Units),558,558,558,558,558,558,558,558,558,558,558,558
+SKU_0001,DC1,DC1,DC,Northeast,New York,Medical Devices & Diagnostics,B,MSTN Thresold,264,264,264,264,264,264,264,264,264,264,264,264
+SKU_0001,DC1,DC1,DC,Northeast,New York,Medical Devices & Diagnostics,B,ESTN Thresold,558,558,558,558,558,558,558,558,558,558,558,558
+SKU_0001,DC1,DC1,DC,Northeast,New York,Medical Devices & Diagnostics,B,MSTN%,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+SKU_0001,DC1,DC1,DC,Northeast,New York,Medical Devices & Diagnostics,B,ESTN%,0.0,0.0,0.007168,0.102151,0.684588,0.942652,0.983871,1.080645,0.998208,1.62724,1.853047,1.863799
+SKU_0001,DC1,DC1,DC,Northeast,New York,Medical Devices & Diagnostics,B,Shortage,0,0,0,0,0,0,0,0,0,0,0,0
+SKU_0001,DC1,DC1,DC,Northeast,New York,Medical Devices & Diagnostics,B,Excess,0,0,4,57,382,526,549,603,557,908,1034,1040
+SKU_0001,DC1,DC1,DC,Northeast,New York,Medical Devices & Diagnostics,B,Out of stock Value($),0,0,0,0,0,0,0,0,0,0,0,0
+SKU_0001,DC1,DC1,DC,Northeast,New York,Medical Devices & Diagnostics,B,Excess and over($),0,0,112,1608,10780,14843,15492,17016,15718,25623,29179,29348
+,,,,,,,,,,,,,,,,,,,,
+SKU_0001,DC2,DC2,DC,West,Los Angeles,Medical Devices & Diagnostics,B,Start Inventory,275,225,264,321,578,635,588,544,559,785,824,874
+SKU_0001,DC2,DC2,DC,West,Los Angeles,Medical Devices & Diagnostics,B,Total Forecast/Order,50,52,31,54,52,47,44,59,45,42,37,51
+SKU_0001,DC2,DC2,DC,West,Los Angeles,Medical Devices & Diagnostics,B,Start Backorder,0,0,0,0,0,0,0,0,0,0,0,0
+SKU_0001,DC2,DC2,DC,West,Los Angeles,Medical Devices & Diagnostics,B,Total Demand,50,52,31,54,52,47,44,59,45,42,37,51
+SKU_0001,DC2,DC2,DC,West,Los Angeles,Medical Devices & Diagnostics,B,Dist. Receipt Planned,0,91,88,311,0,0,0,74,271,0,87,130
+SKU_0001,DC2,DC2,DC,West,Los Angeles,Medical Devices & Diagnostics,B,Total Supply,0,91,88,311,109,0,0,74,271,81,87,130
+SKU_0001,DC2,DC2,DC,West,Los Angeles,Medical Devices & Diagnostics,B,End. Backorder,0,0,0,0,0,0,0,0,0,0,0,0
+SKU_0001,DC2,DC2,DC,West,Los Angeles,Medical Devices & Diagnostics,B,End. Inventory,225,264,321,578,635,588,544,559,785,824,874,953
+SKU_0001,DC2,DC2,DC,West,Los Angeles,Medical Devices & Diagnostics,B,Days of Coverage,31.5,35.5,72.5,74.9,85.5,87.6,86.5,66.3,122.1,137.3,165.4,130.8
+SKU_0001,DC2,DC2,DC,West,Los Angeles,Medical Devices & Diagnostics,B,Target Safety Stock (in Days),28,28,28,28,28,28,28,28,28,28,28,28
+SKU_0001,DC2,DC2,DC,West,Los Angeles,Medical Devices & Diagnostics,B,Target Safety Stock (in Units),180,180,180,180,180,180,180,180,180,180,180,180
+SKU_0001,DC2,DC2,DC,West,Los Angeles,Medical Devices & Diagnostics,B,Cycle Stock (in Days),21,21,21,21,21,21,21,21,21,21,21,21
+SKU_0001,DC2,DC2,DC,West,Los Angeles,Medical Devices & Diagnostics,B,Cycle Stock (in Units),135,135,135,135,135,135,135,135,135,135,135,135
+SKU_0001,DC2,DC2,DC,West,Los Angeles,Medical Devices & Diagnostics,B,Target Max Stock (in Days),57,57,57,57,57,57,57,57,57,57,57,57
+SKU_0001,DC2,DC2,DC,West,Los Angeles,Medical Devices & Diagnostics,B,Target Max Stock (in Units),367,367,367,367,367,367,367,367,367,367,367,367
+SKU_0001,DC2,DC2,DC,West,Los Angeles,Medical Devices & Diagnostics,B,MSTN Thresold,180,180,180,180,180,180,180,180,180,180,180,180
+SKU_0001,DC2,DC2,DC,West,Los Angeles,Medical Devices & Diagnostics,B,ESTN Thresold,367,367,367,367,367,367,367,367,367,367,367,367
+SKU_0001,DC2,DC2,DC,West,Los Angeles,Medical Devices & Diagnostics,B,MSTN%,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+SKU_0001,DC2,DC2,DC,West,Los Angeles,Medical Devices & Diagnostics,B,ESTN%,0.0,0.0,0.0,0.574932,0.730245,0.60218,0.482289,0.523161,1.138965,1.245232,1.381471,1.59673
+SKU_0001,DC2,DC2,DC,West,Los Angeles,Medical Devices & Diagnostics,B,Shortage,0,0,0,0,0,0,0,0,0,0,0,0
+SKU_0001,DC2,DC2,DC,West,Los Angeles,Medical Devices & Diagnostics,B,Excess,0,0,0,211,268,221,177,192,418,457,507,586
+SKU_0001,DC2,DC2,DC,West,Los Angeles,Medical Devices & Diagnostics,B,Out of stock Value($),0,0,0,0,0,0,0,0,0,0,0,0
+SKU_0001,DC2,DC2,DC,West,Los Angeles,Medical Devices & Diagnostics,B,Excess and over($),0,0,0,3677,4671,3852,3085,3346,7285,7965,8837,10213
+,,,,,,,,,,,,,,,,,,,,
+SKU_0001,DC4,DC4,DC,Northwest,Seattle,Medical Devices & Diagnostics,B,Start Inventory,169,195,221,199,235,263,283,308,295,330,357,360
+SKU_0001,DC4,DC4,DC,Northwest,Seattle,Medical Devices & Diagnostics,B,Total Forecast/Order,18,17,22,12,14,15,20,13,16,14,18,22
+SKU_0001,DC4,DC4,DC,Northwest,Seattle,Medical Devices & Diagnostics,B,Start Backorder,0,0,0,0,0,0,0,0,0,0,0,0
+SKU_0001,DC4,DC4,DC,Northwest,Seattle,Medical Devices & Diagnostics,B,Total Demand,18,17,22,12,14,15,20,13,16,14,18,22
+SKU_0001,DC4,DC4,DC,Northwest,Seattle,Medical Devices & Diagnostics,B,Dist. Receipt Planned,44,0,0,48,42,0,45,0,51,0,0,0
+SKU_0001,DC4,DC4,DC,Northwest,Seattle,Medical Devices & Diagnostics,B,Total Supply,44,43,0,48,42,35,45,0,51,41,21,0
+SKU_0001,DC4,DC4,DC,Northwest,Seattle,Medical Devices & Diagnostics,B,End. Backorder,0,0,0,0,0,0,0,0,0,0,0,0
+SKU_0001,DC4,DC4,DC,Northwest,Seattle,Medical Devices & Diagnostics,B,End. Inventory,195,221,199,235,263,283,308,295,330,357,360,338
+SKU_0001,DC4,DC4,DC,Northwest,Seattle,Medical Devices & Diagnostics,B,Days of Coverage,75.8,91.0,63.3,137.1,131.5,132.1,107.8,158.8,144.4,178.5,140.0,107.5
+SKU_0001,DC4,DC4,DC,Northwest,Seattle,Medical Devices & Diagnostics,B,Target Safety Stock (in Days),28,28,28,28,28,28,28,28,28,28,28,28
+SKU_0001,DC4,DC4,DC,Northwest,Seattle,Medical Devices & Diagnostics,B,Target Safety Stock (in Units),71,71,71,71,71,71,71,71,71,71,71,71
+SKU_0001,DC4,DC4,DC,Northwest,Seattle,Medical Devices & Diagnostics,B,Cycle Stock (in Days),14,14,14,14,14,14,14,14,14,14,14,14
+SKU_0001,DC4,DC4,DC,Northwest,Seattle,Medical Devices & Diagnostics,B,Cycle Stock (in Units),36,36,36,36,36,36,36,36,36,36,36,36
+SKU_0001,DC4,DC4,DC,Northwest,Seattle,Medical Devices & Diagnostics,B,Target Max Stock (in Days),56,56,56,56,56,56,56,56,56,56,56,56
+SKU_0001,DC4,DC4,DC,Northwest,Seattle,Medical Devices & Diagnostics,B,Target Max Stock (in Units),143,143,143,143,143,143,143,143,143,143,143,143
+SKU_0001,DC4,DC4,DC,Northwest,Seattle,Medical Devices & Diagnostics,B,MSTN Thresold,71,71,71,71,71,71,71,71,71,71,71,71
+SKU_0001,DC4,DC4,DC,Northwest,Seattle,Medical Devices & Diagnostics,B,ESTN Thresold,143,143,143,143,143,143,143,143,143,143,143,143
+SKU_0001,DC4,DC4,DC,Northwest,Seattle,Medical Devices & Diagnostics,B,MSTN%,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+SKU_0001,DC4,DC4,DC,Northwest,Seattle,Medical Devices & Diagnostics,B,ESTN%,0.363636,0.545455,0.391608,0.643357,0.839161,0.979021,1.153846,1.062937,1.307692,1.496503,1.517483,1.363636
+SKU_0001,DC4,DC4,DC,Northwest,Seattle,Medical Devices & Diagnostics,B,Shortage,0,0,0,0,0,0,0,0,0,0,0,0
+SKU_0001,DC4,DC4,DC,Northwest,Seattle,Medical Devices & Diagnostics,B,Excess,52,78,56,92,120,140,165,152,187,214,217,195
+SKU_0001,DC4,DC4,DC,Northwest,Seattle,Medical Devices & Diagnostics,B,Out of stock Value($),0,0,0,0,0,0,0,0,0,0,0,0
+SKU_0001,DC4,DC4,DC,Northwest,Seattle,Medical Devices & Diagnostics,B,Excess and over($),872,1308,939,1542,2012,2347,2767,2549,3135,3588,3639,3270
+,,,,,,,,,,,,,,,,,,,,
+SKU_0001,DC5,DC5,DC,Southeast,Miami,Medical Devices & Diagnostics,B,Start Inventory,189,556,483,520,447,386,494,444,399,439,379,317
+SKU_0001,DC5,DC5,DC,Southeast,Miami,Medical Devices & Diagnostics,B,Total Forecast/Order,42,73,66,73,61,44,50,45,48,60,62,69
+SKU_0001,DC5,DC5,DC,Southeast,Miami,Medical Devices & Diagnostics,B,Start Backorder,0,0,0,0,0,0,0,0,0,0,0,0
+SKU_0001,DC5,DC5,DC,Southeast,Miami,Medical Devices & Diagnostics,B,Total Demand,42,73,66,73,61,44,50,45,48,60,62,69
+SKU_0001,DC5,DC5,DC,Southeast,Miami,Medical Devices & Diagnostics,B,Dist. Receipt Planned,409,0,103,0,0,152,0,0,0,0,0,0
+SKU_0001,DC5,DC5,DC,Southeast,Miami,Medical Devices & Diagnostics,B,Total Supply,409,0,103,0,0,152,0,0,88,0,0,0
+SKU_0001,DC5,DC5,DC,Southeast,Miami,Medical Devices & Diagnostics,B,End. Backorder,0,0,0,0,0,0,0,0,0,0,0,0
+SKU_0001,DC5,DC5,DC,Southeast,Miami,Medical Devices & Diagnostics,B,End. Inventory,556,483,520,447,386,494,444,399,439,379,317,248
+SKU_0001,DC5,DC5,DC,Southeast,Miami,Medical Devices & Diagnostics,B,Days of Coverage,92.7,46.3,55.2,42.9,44.3,78.6,62.2,62.1,64.0,44.2,35.8,25.2
+SKU_0001,DC5,DC5,DC,Southeast,Miami,Medical Devices & Diagnostics,B,Target Safety Stock (in Days),28,28,28,28,28,28,28,28,28,28,28,28
+SKU_0001,DC5,DC5,DC,Southeast,Miami,Medical Devices & Diagnostics,B,Target Safety Stock (in Units),237,237,237,237,237,237,237,237,237,237,237,237
+SKU_0001,DC5,DC5,DC,Southeast,Miami,Medical Devices & Diagnostics,B,Cycle Stock (in Days),21,21,21,21,21,21,21,21,21,21,21,21
+SKU_0001,DC5,DC5,DC,Southeast,Miami,Medical Devices & Diagnostics,B,Cycle Stock (in Units),178,178,178,178,178,178,178,178,178,178,178,178
+SKU_0001,DC5,DC5,DC,Southeast,Miami,Medical Devices & Diagnostics,B,Target Max Stock (in Days),76,76,76,76,76,76,76,76,76,76,76,76
+SKU_0001,DC5,DC5,DC,Southeast,Miami,Medical Devices & Diagnostics,B,Target Max Stock (in Units),647,647,647,647,647,647,647,647,647,647,647,647
+SKU_0001,DC5,DC5,DC,Southeast,Miami,Medical Devices & Diagnostics,B,MSTN Thresold,237,237,237,237,237,237,237,237,237,237,237,237
+SKU_0001,DC5,DC5,DC,Southeast,Miami,Medical Devices & Diagnostics,B,ESTN Thresold,647,647,647,647,647,647,647,647,647,647,647,647
+SKU_0001,DC5,DC5,DC,Southeast,Miami,Medical Devices & Diagnostics,B,MSTN%,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+SKU_0001,DC5,DC5,DC,Southeast,Miami,Medical Devices & Diagnostics,B,ESTN%,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SKU_0001,DC5,DC5,DC,Southeast,Miami,Medical Devices & Diagnostics,B,Shortage,0,0,0,0,0,0,0,0,0,0,0,0
+SKU_0001,DC5,DC5,DC,Southeast,Miami,Medical Devices & Diagnostics,B,Excess,0,0,0,0,0,0,0,0,0,0,0,0
+SKU_0001,DC5,DC5,DC,Southeast,Miami,Medical Devices & Diagnostics,B,Out of stock Value($),0,0,0,0,0,0,0,0,0,0,0,0
+SKU_0001,DC5,DC5,DC,Southeast,Miami,Medical Devices & Diagnostics,B,Excess and over($),0,0,0,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,
+SKU_0001,F1,F1,Factory,Midwest,Detroit,Medical Devices & Diagnostics,B,Start Inventory,1481,1866,1509,2133,3802,3650,2945,2740,2338,2421,3530,4308
+SKU_0001,F1,F1,Factory,Midwest,Detroit,Medical Devices & Diagnostics,B,Total Forecast/Order,504,357,559,443,152,705,205,880,669,1113,316,0
+SKU_0001,F1,F1,Factory,Midwest,Detroit,Medical Devices & Diagnostics,B,Start Backorder,0,0,0,0,0,0,0,0,0,0,0,0
+SKU_0001,F1,F1,Factory,Midwest,Detroit,Medical Devices & Diagnostics,B,Total Demand,504,357,559,443,152,705,205,880,669,1113,316,0
+SKU_0001,F1,F1,Factory,Midwest,Detroit,Medical Devices & Diagnostics,B,Dist. Receipt Planned,889,0,1183,2112,0,0,0,0,752,2222,1094,0
+SKU_0001,F1,F1,Factory,Midwest,Detroit,Medical Devices & Diagnostics,B,Total Supply,889,0,1183,2112,0,0,0,478,752,2222,1094,420
+SKU_0001,F1,F1,Factory,Midwest,Detroit,Medical Devices & Diagnostics,B,End. Backorder,0,0,0,0,0,0,0,0,0,0,0,0
+SKU_0001,F1,F1,Factory,Midwest,Detroit,Medical Devices & Diagnostics,B,End. Inventory,1866,1509,2133,3802,3650,2945,2740,2338,2421,3530,4308,4728
+SKU_0001,F1,F1,Factory,Midwest,Detroit,Medical Devices & Diagnostics,B,Days of Coverage,25.9,29.6,26.7,60.1,168.1,29.2,93.6,18.6,25.3,22.2,95.4,0
+SKU_0001,F1,F1,Factory,Midwest,Detroit,Medical Devices & Diagnostics,B,Target Safety Stock (in Days),28,28,28,28,28,28,28,28,28,28,28,28
+SKU_0001,F1,F1,Factory,Midwest,Detroit,Medical Devices & Diagnostics,B,Target Safety Stock (in Units),1187,1187,1187,1187,1187,1187,1187,1187,1187,1187,1187,1187
+SKU_0001,F1,F1,Factory,Midwest,Detroit,Medical Devices & Diagnostics,B,Cycle Stock (in Days),28,28,28,28,28,28,28,28,28,28,28,28
+SKU_0001,F1,F1,Factory,Midwest,Detroit,Medical Devices & Diagnostics,B,Cycle Stock (in Units),1187,1187,1187,1187,1187,1187,1187,1187,1187,1187,1187,1187
+SKU_0001,F1,F1,Factory,Midwest,Detroit,Medical Devices & Diagnostics,B,Target Max Stock (in Days),65,65,65,65,65,65,65,65,65,65,65,65
+SKU_0001,F1,F1,Factory,Midwest,Detroit,Medical Devices & Diagnostics,B,Target Max Stock (in Units),2743,2743,2743,2743,2743,2743,2743,2743,2743,2743,2743,2743
+SKU_0001,F1,F1,Factory,Midwest,Detroit,Medical Devices & Diagnostics,B,MSTN Thresold,1187,1187,1187,1187,1187,1187,1187,1187,1187,1187,1187,1187
+SKU_0001,F1,F1,Factory,Midwest,Detroit,Medical Devices & Diagnostics,B,ESTN Thresold,2743,2743,2743,2743,2743,2743,2743,2743,2743,2743,2743,2743
+SKU_0001,F1,F1,Factory,Midwest,Detroit,Medical Devices & Diagnostics,B,MSTN%,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+SKU_0001,F1,F1,Factory,Midwest,Detroit,Medical Devices & Diagnostics,B,ESTN%,0.0,0.0,0.0,0.386074,0.33066,0.073642,0.0,0.0,0.0,0.286912,0.570543,0.72366
+SKU_0001,F1,F1,Factory,Midwest,Detroit,Medical Devices & Diagnostics,B,Shortage,0,0,0,0,0,0,0,0,0,0,0,0
+SKU_0001,F1,F1,Factory,Midwest,Detroit,Medical Devices & Diagnostics,B,Excess,0,0,0,1059,907,202,0,0,0,787,1565,1985
+SKU_0001,F1,F1,Factory,Midwest,Detroit,Medical Devices & Diagnostics,B,Out of stock Value($),0,0,0,0,0,0,0,0,0,0,0,0
+SKU_0001,F1,F1,Factory,Midwest,Detroit,Medical Devices & Diagnostics,B,Excess and over($),0,0,0,31293,26801,5969,0,0,0,23255,46245,58656
+,,,,,,,,,,,,,,,,,,,,
+SKU_0002,DC1,DC1,DC,Northeast,New York,Medical Devices & Diagnostics,C,Start Inventory,385,303,491,866,1480,2280,2173,2213,2124,2007,2467,2690
+SKU_0002,DC1,DC1,DC,Northeast,New York,Medical Devices & Diagnostics,C,Total Forecast/Order,82,168,123,123,143,107,111,89,117,108,116,100
+SKU_0002,DC1,DC1,DC,Northeast,New York,Medical Devices & Diagnostics,C,Start Backorder,0,0,0,0,0,0,0,0,0,0,0,0
+SKU_0002,DC1,DC1,DC,Northeast,New York,Medical Devices & Diagnostics,C,Total Demand,82,168,123,123,143,107,111,89,117,108,116,100
+SKU_0002,DC1,DC1,DC,Northeast,New York,Medical Devices & Diagnostics,C,Dist. Receipt Planned,0,356,498,737,943,0,0,0,0,568,0,0
+SKU_0002,DC1,DC1,DC,Northeast,New York,Medical Devices & Diagnostics,C,Total Supply,0,356,498,737,943,0,151,0,0,568,339,142
+SKU_0002,DC1,DC1,DC,Northeast,New York,Medical Devices & Diagnostics,C,End. Backorder,0,0,0,0,0,0,0,0,0,0,0,0
+SKU_0002,DC1,DC1,DC,Northeast,New York,Medical Devices & Diagnostics,C,End. Inventory,303,491,866,1480,2280,2173,2213,2124,2007,2467,2690,2732
+SKU_0002,DC1,DC1,DC,Northeast,New York,Medical Devices & Diagnostics,C,Days of Coverage,25.9,20.5,49.3,84.2,111.6,142.2,139.6,167.1,120.1,159.9,162.3,191.2
+SKU_0002,DC1,DC1,DC,Northeast,New York,Medical Devices & Diagnostics,C,Target Safety Stock (in Days),28,28,28,28,28,28,28,28,28,28,28,28
+SKU_0002,DC1,DC1,DC,Northeast,New York,Medical Devices & Diagnostics,C,Target Safety Stock (in Units),480,480,480,480,480,480,480,480,480,480,480,480
+SKU_0002,DC1,DC1,DC,Northeast,New York,Medical Devices & Diagnostics,C,Cycle Stock (in Days),21,21,21,21,21,21,21,21,21,21,21,21
+SKU_0002,DC1,DC1,DC,Northeast,New York,Medical Devices & Diagnostics,C,Cycle Stock (in Units),360,360,360,360,360,360,360,360,360,360,360,360
+SKU_0002,DC1,DC1,DC,Northeast,New York,Medical Devices & Diagnostics,C,Target Max Stock (in Days),111,111,111,111,111,111,111,111,111,111,111,111
+SKU_0002,DC1,DC1,DC,Northeast,New York,Medical Devices & Diagnostics,C,Target Max Stock (in Units),1910,1910,1910,1910,1910,1910,1910,1910,1910,1910,1910,1910
+SKU_0002,DC1,DC1,DC,Northeast,New York,Medical Devices & Diagnostics,C,MSTN Thresold,480,480,480,480,480,480,480,480,480,480,480,480
+SKU_0002,DC1,DC1,DC,Northeast,New York,Medical Devices & Diagnostics,C,ESTN Thresold,1910,1910,1910,1910,1910,1910,1910,1910,1910,1910,1910,1910
+SKU_0002,DC1,DC1,DC,Northeast,New York,Medical Devices & Diagnostics,C,MSTN%,0.63,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+SKU_0002,DC1,DC1,DC,Northeast,New York,Medical Devices & Diagnostics,C,ESTN%,0.0,0.0,0.0,0.0,0.193717,0.137696,0.158639,0.112042,0.050785,0.291623,0.408377,0.430366
+SKU_0002,DC1,DC1,DC,Northeast,New York,Medical Devices & Diagnostics,C,Shortage,177,0,0,0,0,0,0,0,0,0,0,0
+SKU_0002,DC1,DC1,DC,Northeast,New York,Medical Devices & Diagnostics,C,Excess,0,0,0,0,370,263,303,214,97,557,780,822
+SKU_0002,DC1,DC1,DC,Northeast,New York,Medical Devices & Diagnostics,C,Out of stock Value($),3501,0,0,0,0,0,0,0,0,0,0,0
+SKU_0002,DC1,DC1,DC,Northeast,New York,Medical Devices & Diagnostics,C,Excess and over($),0,0,0,0,7318,5202,5993,4232,1918,11017,15428,16259
+,,,,,,,,,,,,,,,,,,,,
+SKU_0002,DC2,DC2,DC,West,Los Angeles,Medical Devices & Diagnostics,C,Start Inventory,658,574,629,718,725,1105,1248,1406,1318,1222,1117,1238
+SKU_0002,DC2,DC2,DC,West,Los Angeles,Medical Devices & Diagnostics,C,Total Forecast/Order,84,116,69,76,91,90,75,88,96,105,90,97
+SKU_0002,DC2,DC2,DC,West,Los Angeles,Medical Devices & Diagnostics,C,Start Backorder,0,0,0,0,0,0,0,0,0,0,0,0
+SKU_0002,DC2,DC2,DC,West,Los Angeles,Medical Devices & Diagnostics,C,Total Demand,84,116,69,76,91,90,75,88,96,105,90,97
+SKU_0002,DC2,DC2,DC,West,Los Angeles,Medical Devices & Diagnostics,C,Dist. Receipt Planned,0,0,158,0,471,0,233,0,0,0,0,0
+SKU_0002,DC2,DC2,DC,West,Los Angeles,Medical Devices & Diagnostics,C,Total Supply,0,171,158,83,471,233,233,0,0,0,211,0
+SKU_0002,DC2,DC2,DC,West,Los Angeles,Medical Devices & Diagnostics,C,End. Backorder,0,0,0,0,0,0,0,0,0,0,0,0
+SKU_0002,DC2,DC2,DC,West,Los Angeles,Medical Devices & Diagnostics,C,End. Inventory,574,629,718,725,1105,1248,1406,1318,1222,1117,1238,1141
+SKU_0002,DC2,DC2,DC,West,Los Angeles,Medical Devices & Diagnostics,C,Days of Coverage,47.8,38.0,72.8,66.8,85.0,97.1,131.2,104.8,89.1,74.5,96.3,82.3
+SKU_0002,DC2,DC2,DC,West,Los Angeles,Medical Devices & Diagnostics,C,Target Safety Stock (in Days),28,28,28,28,28,28,28,28,28,28,28,28
+SKU_0002,DC2,DC2,DC,West,Los Angeles,Medical Devices & Diagnostics,C,Target Safety Stock (in Units),322,322,322,322,322,322,322,322,322,322,322,322
+SKU_0002,DC2,DC2,DC,West,Los Angeles,Medical Devices & Diagnostics,C,Cycle Stock (in Days),14,14,14,14,14,14,14,14,14,14,14,14
+SKU_0002,DC2,DC2,DC,West,Los Angeles,Medical Devices & Diagnostics,C,Cycle Stock (in Units),161,161,161,161,161,161,161,161,161,161,161,161
+SKU_0002,DC2,DC2,DC,West,Los Angeles,Medical Devices & Diagnostics,C,Target Max Stock (in Days),103,103,103,103,103,103,103,103,103,103,103,103
+SKU_0002,DC2,DC2,DC,West,Los Angeles,Medical Devices & Diagnostics,C,Target Max Stock (in Units),1190,1190,1190,1190,1190,1190,1190,1190,1190,1190,1190,1190
+SKU_0002,DC2,DC2,DC,West,Los Angeles,Medical Devices & Diagnostics,C,MSTN Thresold,322,322,322,322,322,322,322,322,322,322,322,322
+SKU_0002,DC2,DC2,DC,West,Los Angeles,Medical Devices & Diagnostics,C,ESTN Thresold,1190,1190,1190,1190,1190,1190,1190,1190,1190,1190,1190,1190
+SKU_0002,DC2,DC2,DC,West,Los Angeles,Medical Devices & Diagnostics,C,MSTN%,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+SKU_0002,DC2,DC2,DC,West,Los Angeles,Medical Devices & Diagnostics,C,ESTN%,0.0,0.0,0.0,0.0,0.0,0.048739,0.181513,0.107563,0.026891,0.0,0.040336,0.0
+SKU_0002,DC2,DC2,DC,West,Los Angeles,Medical Devices & Diagnostics,C,Shortage,0,0,0,0,0,0,0,0,0,0,0,0
+SKU_0002,DC2,DC2,DC,West,Los Angeles,Medical Devices & Diagnostics,C,Excess,0,0,0,0,0,58,216,128,32,0,48,0
+SKU_0002,DC2,DC2,DC,West,Los Angeles,Medical Devices & Diagnostics,C,Out of stock Value($),0,0,0,0,0,0,0,0,0,0,0,0
+SKU_0002,DC2,DC2,DC,West,Los Angeles,Medical Devices & Diagnostics,C,Excess and over($),0,0,0,0,0,1607,5985,3546,886,0,1330,0
+,,,,,,,,,,,,,,,,,,,,
+SKU_0002,DC4,DC4,DC,Northwest,Seattle,Medical Devices & Diagnostics,C,Start Inventory,35,65,212,107,0,164,328,172,49,180,271,147
+SKU_0002,DC4,DC4,DC,Northwest,Seattle,Medical Devices & Diagnostics,C,Total Forecast/Order,107,189,105,137,140,163,156,123,108,141,124,81
+SKU_0002,DC4,DC4,DC,Northwest,Seattle,Medical Devices & Diagnostics,C,Start Backorder,0,0,0,0,30,0,0,0,0,0,0,0
+SKU_0002,DC4,DC4,DC,Northwest,Seattle,Medical Devices & Diagnostics,C,Total Demand,107,189,105,137,170,163,156,123,108,141,124,81
+SKU_0002,DC4,DC4,DC,Northwest,Seattle,Medical Devices & Diagnostics,C,Dist. Receipt Planned,0,336,0,0,334,0,0,0,239,0,0,327
+SKU_0002,DC4,DC4,DC,Northwest,Seattle,Medical Devices & Diagnostics,C,Total Supply,137,336,0,0,334,327,0,0,239,232,0,327
+SKU_0002,DC4,DC4,DC,Northwest,Seattle,Medical Devices & Diagnostics,C,End. Backorder,0,0,0,30,0,0,0,0,0,0,0,0
+SKU_0002,DC4,DC4,DC,Northwest,Seattle,Medical Devices & Diagnostics,C,End. Inventory,65,212,107,0,164,328,172,49,180,271,147,393
+SKU_0002,DC4,DC4,DC,Northwest,Seattle,Medical Devices & Diagnostics,C,Days of Coverage,4.3,7.9,7.1,0.0,8.2,14.1,7.7,2.8,11.7,13.5,8.3,34.0
+SKU_0002,DC4,DC4,DC,Northwest,Seattle,Medical Devices & Diagnostics,C,Target Safety Stock (in Days),28,28,28,28,28,28,28,28,28,28,28,28
+SKU_0002,DC4,DC4,DC,Northwest,Seattle,Medical Devices & Diagnostics,C,Target Safety Stock (in Units),458,458,458,458,458,458,458,458,458,458,458,458
+SKU_0002,DC4,DC4,DC,Northwest,Seattle,Medical Devices & Diagnostics,C,Cycle Stock (in Days),21,21,21,21,21,21,21,21,21,21,21,21
+SKU_0002,DC4,DC4,DC,Northwest,Seattle,Medical Devices & Diagnostics,C,Cycle Stock (in Units),344,344,344,344,344,344,344,344,344,344,344,344
+SKU_0002,DC4,DC4,DC,Northwest,Seattle,Medical Devices & Diagnostics,C,Target Max Stock (in Days),90,90,90,90,90,90,90,90,90,90,90,90
+SKU_0002,DC4,DC4,DC,Northwest,Seattle,Medical Devices & Diagnostics,C,Target Max Stock (in Units),1476,1476,1476,1476,1476,1476,1476,1476,1476,1476,1476,1476
+SKU_0002,DC4,DC4,DC,Northwest,Seattle,Medical Devices & Diagnostics,C,MSTN Thresold,458,458,458,458,458,458,458,458,458,458,458,458
+SKU_0002,DC4,DC4,DC,Northwest,Seattle,Medical Devices & Diagnostics,C,ESTN Thresold,1476,1476,1476,1476,1476,1476,1476,1476,1476,1476,1476,1476
+SKU_0002,DC4,DC4,DC,Northwest,Seattle,Medical Devices & Diagnostics,C,MSTN%,0.14,0.46,0.23,0.0,0.35,0.71,0.37,0.1,0.39,0.59,0.32,0.85
+SKU_0002,DC4,DC4,DC,Northwest,Seattle,Medical Devices & Diagnostics,C,ESTN%,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SKU_0002,DC4,DC4,DC,Northwest,Seattle,Medical Devices & Diagnostics,C,Shortage,393,246,351,488,294,130,286,409,278,187,311,65
+SKU_0002,DC4,DC4,DC,Northwest,Seattle,Medical Devices & Diagnostics,C,Excess,0,0,0,0,0,0,0,0,0,0,0,0
+SKU_0002,DC4,DC4,DC,Northwest,Seattle,Medical Devices & Diagnostics,C,Out of stock Value($),15535,9724,13875,19290,11621,5138,11305,16167,10989,7392,12293,2569
+SKU_0002,DC4,DC4,DC,Northwest,Seattle,Medical Devices & Diagnostics,C,Excess and over($),0,0,0,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,
+SKU_0002,DC5,DC5,DC,Southeast,Miami,Medical Devices & Diagnostics,C,Start Inventory,408,372,305,359,317,255,310,264,210,336,406,359
+SKU_0002,DC5,DC5,DC,Southeast,Miami,Medical Devices & Diagnostics,C,Total Forecast/Order,36,67,46,42,62,61,46,54,34,62,47,44
+SKU_0002,DC5,DC5,DC,Southeast,Miami,Medical Devices & Diagnostics,C,Start Backorder,0,0,0,0,0,0,0,0,0,0,0,0
+SKU_0002,DC5,DC5,DC,Southeast,Miami,Medical Devices & Diagnostics,C,Total Demand,36,67,46,42,62,61,46,54,34,62,47,44
+SKU_0002,DC5,DC5,DC,Southeast,Miami,Medical Devices & Diagnostics,C,Dist. Receipt Planned,0,0,0,0,0,116,0,0,160,0,0,0
+SKU_0002,DC5,DC5,DC,Southeast,Miami,Medical Devices & Diagnostics,C,Total Supply,0,0,100,0,0,116,0,0,160,132,0,0
+SKU_0002,DC5,DC5,DC,Southeast,Miami,Medical Devices & Diagnostics,C,End. Backorder,0,0,0,0,0,0,0,0,0,0,0,0
+SKU_0002,DC5,DC5,DC,Southeast,Miami,Medical Devices & Diagnostics,C,End. Inventory,372,305,359,317,255,310,264,210,336,406,359,315
+SKU_0002,DC5,DC5,DC,Southeast,Miami,Medical Devices & Diagnostics,C,Days of Coverage,72.3,31.9,54.6,52.8,28.8,35.6,40.2,27.2,69.2,45.8,53.5,50.1
+SKU_0002,DC5,DC5,DC,Southeast,Miami,Medical Devices & Diagnostics,C,Target Safety Stock (in Days),28,28,28,28,28,28,28,28,28,28,28,28
+SKU_0002,DC5,DC5,DC,Southeast,Miami,Medical Devices & Diagnostics,C,Target Safety Stock (in Units),222,222,222,222,222,222,222,222,222,222,222,222
+SKU_0002,DC5,DC5,DC,Southeast,Miami,Medical Devices & Diagnostics,C,Cycle Stock (in Days),21,21,21,21,21,21,21,21,21,21,21,21
+SKU_0002,DC5,DC5,DC,Southeast,Miami,Medical Devices & Diagnostics,C,Cycle Stock (in Units),166,166,166,166,166,166,166,166,166,166,166,166
+SKU_0002,DC5,DC5,DC,Southeast,Miami,Medical Devices & Diagnostics,C,Target Max Stock (in Days),67,67,67,67,67,67,67,67,67,67,67,67
+SKU_0002,DC5,DC5,DC,Southeast,Miami,Medical Devices & Diagnostics,C,Target Max Stock (in Units),530,530,530,530,530,530,530,530,530,530,530,530
+SKU_0002,DC5,DC5,DC,Southeast,Miami,Medical Devices & Diagnostics,C,MSTN Thresold,222,222,222,222,222,222,222,222,222,222,222,222
+SKU_0002,DC5,DC5,DC,Southeast,Miami,Medical Devices & Diagnostics,C,ESTN Thresold,530,530,530,530,530,530,530,530,530,530,530,530
+SKU_0002,DC5,DC5,DC,Southeast,Miami,Medical Devices & Diagnostics,C,MSTN%,1.0,1.0,1.0,1.0,1.0,1.0,1.0,0.94,1.0,1.0,1.0,1.0
+SKU_0002,DC5,DC5,DC,Southeast,Miami,Medical Devices & Diagnostics,C,ESTN%,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SKU_0002,DC5,DC5,DC,Southeast,Miami,Medical Devices & Diagnostics,C,Shortage,0,0,0,0,0,0,0,12,0,0,0,0
+SKU_0002,DC5,DC5,DC,Southeast,Miami,Medical Devices & Diagnostics,C,Excess,0,0,0,0,0,0,0,0,0,0,0,0
+SKU_0002,DC5,DC5,DC,Southeast,Miami,Medical Devices & Diagnostics,C,Out of stock Value($),0,0,0,0,0,0,0,173,0,0,0,0
+SKU_0002,DC5,DC5,DC,Southeast,Miami,Medical Devices & Diagnostics,C,Excess and over($),0,0,0,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,
+SKU_0002,F1,F1,Factory,Midwest,Detroit,Medical Devices & Diagnostics,C,Start Inventory,1739,2533,1732,1535,2696,3567,3334,6174,5734,6666,6666,6294
+SKU_0002,F1,F1,Factory,Midwest,Detroit,Medical Devices & Diagnostics,C,Total Forecast/Order,737,801,737,1748,286,233,0,440,568,0,372,0
+SKU_0002,F1,F1,Factory,Midwest,Detroit,Medical Devices & Diagnostics,C,Start Backorder,0,0,0,0,0,0,0,0,0,0,0,0
+SKU_0002,F1,F1,Factory,Midwest,Detroit,Medical Devices & Diagnostics,C,Total Demand,737,801,737,1748,286,233,0,440,568,0,372,0
+SKU_0002,F1,F1,Factory,Midwest,Detroit,Medical Devices & Diagnostics,C,Dist. Receipt Planned,1531,0,0,2909,0,0,2840,0,1500,0,0,3819
+SKU_0002,F1,F1,Factory,Midwest,Detroit,Medical Devices & Diagnostics,C,Total Supply,1531,0,540,2909,1157,0,2840,0,1500,0,0,3819
+SKU_0002,F1,F1,Factory,Midwest,Detroit,Medical Devices & Diagnostics,C,End. Backorder,0,0,0,0,0,0,0,0,0,0,0,0
+SKU_0002,F1,F1,Factory,Midwest,Detroit,Medical Devices & Diagnostics,C,End. Inventory,2533,1732,1535,2696,3567,3334,6174,5734,6666,6666,6294,10113
+SKU_0002,F1,F1,Factory,Midwest,Detroit,Medical Devices & Diagnostics,C,Days of Coverage,24.1,15.1,14.6,10.8,87.3,100.2,0,91.2,82.2,0,118.4,0
+SKU_0002,F1,F1,Factory,Midwest,Detroit,Medical Devices & Diagnostics,C,Target Safety Stock (in Days),28,28,28,28,28,28,28,28,28,28,28,28
+SKU_0002,F1,F1,Factory,Midwest,Detroit,Medical Devices & Diagnostics,C,Target Safety Stock (in Units),1570,1570,1570,1570,1570,1570,1570,1570,1570,1570,1570,1570
+SKU_0002,F1,F1,Factory,Midwest,Detroit,Medical Devices & Diagnostics,C,Cycle Stock (in Days),42,42,42,42,42,42,42,42,42,42,42,42
+SKU_0002,F1,F1,Factory,Midwest,Detroit,Medical Devices & Diagnostics,C,Cycle Stock (in Units),2355,2355,2355,2355,2355,2355,2355,2355,2355,2355,2355,2355
+SKU_0002,F1,F1,Factory,Midwest,Detroit,Medical Devices & Diagnostics,C,Target Max Stock (in Days),95,95,95,95,95,95,95,95,95,95,95,95
+SKU_0002,F1,F1,Factory,Midwest,Detroit,Medical Devices & Diagnostics,C,Target Max Stock (in Units),5333,5333,5333,5333,5333,5333,5333,5333,5333,5333,5333,5333
+SKU_0002,F1,F1,Factory,Midwest,Detroit,Medical Devices & Diagnostics,C,MSTN Thresold,1570,1570,1570,1570,1570,1570,1570,1570,1570,1570,1570,1570
+SKU_0002,F1,F1,Factory,Midwest,Detroit,Medical Devices & Diagnostics,C,ESTN Thresold,5333,5333,5333,5333,5333,5333,5333,5333,5333,5333,5333,5333
+SKU_0002,F1,F1,Factory,Midwest,Detroit,Medical Devices & Diagnostics,C,MSTN%,1.0,1.0,0.97,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+SKU_0002,F1,F1,Factory,Midwest,Detroit,Medical Devices & Diagnostics,C,ESTN%,0.0,0.0,0.0,0.0,0.0,0.0,0.157697,0.075192,0.249953,0.249953,0.180199,0.896306
+SKU_0002,F1,F1,Factory,Midwest,Detroit,Medical Devices & Diagnostics,C,Shortage,0,0,35,0,0,0,0,0,0,0,0,0
+SKU_0002,F1,F1,Factory,Midwest,Detroit,Medical Devices & Diagnostics,C,Excess,0,0,0,0,0,0,841,401,1333,1333,961,4780
+SKU_0002,F1,F1,Factory,Midwest,Detroit,Medical Devices & Diagnostics,C,Out of stock Value($),0,0,837,0,0,0,0,0,0,0,0,0
+SKU_0002,F1,F1,Factory,Midwest,Detroit,Medical Devices & Diagnostics,C,Excess and over($),0,0,0,0,0,0,20133,9599,31912,31912,23006,114433
+,,,,,,,,,,,,,,,,,,,,
+SKU_0003,DC1,DC1,DC,Northeast,New York,Surgical & Mechanical,C,Start Inventory,64,0,57,5,95,0,0,0,0,0,0,0
+SKU_0003,DC1,DC1,DC,Northeast,New York,Surgical & Mechanical,C,Total Forecast/Order,72,73,52,80,95,74,69,86,58,82,55,43
+SKU_0003,DC1,DC1,DC,Northeast,New York,Surgical & Mechanical,C,Start Backorder,0,8,0,0,0,0,74,31,117,65,147,202
+SKU_0003,DC1,DC1,DC,Northeast,New York,Surgical & Mechanical,C,Total Demand,72,81,52,80,95,74,143,117,175,147,202,245
+SKU_0003,DC1,DC1,DC,Northeast,New York,Surgical & Mechanical,C,Dist. Receipt Planned,0,0,0,0,0,0,112,0,110,0,0,0
+SKU_0003,DC1,DC1,DC,Northeast,New York,Surgical & Mechanical,C,Total Supply,0,138,0,170,0,0,112,0,110,0,0,0
+SKU_0003,DC1,DC1,DC,Northeast,New York,Surgical & Mechanical,C,End. Backorder,8,0,0,0,0,74,31,117,65,147,202,245
+SKU_0003,DC1,DC1,DC,Northeast,New York,Surgical & Mechanical,C,End. Inventory,0,57,5,95,0,0,0,0,0,0,0,0
+SKU_0003,DC1,DC1,DC,Northeast,New York,Surgical & Mechanical,C,Days of Coverage,0.0,5.5,0.7,8.3,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SKU_0003,DC1,DC1,DC,Northeast,New York,Surgical & Mechanical,C,Target Safety Stock (in Days),28,28,28,28,28,28,28,28,28,28,28,28
+SKU_0003,DC1,DC1,DC,Northeast,New York,Surgical & Mechanical,C,Target Safety Stock (in Units),291,291,291,291,291,291,291,291,291,291,291,291
+SKU_0003,DC1,DC1,DC,Northeast,New York,Surgical & Mechanical,C,Cycle Stock (in Days),14,14,14,14,14,14,14,14,14,14,14,14
+SKU_0003,DC1,DC1,DC,Northeast,New York,Surgical & Mechanical,C,Cycle Stock (in Units),146,146,146,146,146,146,146,146,146,146,146,146
+SKU_0003,DC1,DC1,DC,Northeast,New York,Surgical & Mechanical,C,Target Max Stock (in Days),87,87,87,87,87,87,87,87,87,87,87,87
+SKU_0003,DC1,DC1,DC,Northeast,New York,Surgical & Mechanical,C,Target Max Stock (in Units),903,903,903,903,903,903,903,903,903,903,903,903
+SKU_0003,DC1,DC1,DC,Northeast,New York,Surgical & Mechanical,C,MSTN Thresold,291,291,291,291,291,291,291,291,291,291,291,291
+SKU_0003,DC1,DC1,DC,Northeast,New York,Surgical & Mechanical,C,ESTN Thresold,903,903,903,903,903,903,903,903,903,903,903,903
+SKU_0003,DC1,DC1,DC,Northeast,New York,Surgical & Mechanical,C,MSTN%,0.0,0.19,0.01,0.32,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SKU_0003,DC1,DC1,DC,Northeast,New York,Surgical & Mechanical,C,ESTN%,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SKU_0003,DC1,DC1,DC,Northeast,New York,Surgical & Mechanical,C,Shortage,299,234,286,196,291,365,322,408,356,438,493,536
+SKU_0003,DC1,DC1,DC,Northeast,New York,Surgical & Mechanical,C,Excess,0,0,0,0,0,0,0,0,0,0,0,0
+SKU_0003,DC1,DC1,DC,Northeast,New York,Surgical & Mechanical,C,Out of stock Value($),9092,7115,8697,5960,8849,11099,9792,12407,10825,13319,14992,16299
+SKU_0003,DC1,DC1,DC,Northeast,New York,Surgical & Mechanical,C,Excess and over($),0,0,0,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,
+SKU_0003,DC2,DC2,DC,West,Los Angeles,Surgical & Mechanical,C,Start Inventory,722,658,763,731,683,729,758,804,765,802,842,894
+SKU_0003,DC2,DC2,DC,West,Los Angeles,Surgical & Mechanical,C,Total Forecast/Order,64,35,32,48,36,55,52,39,39,53,47,38
+SKU_0003,DC2,DC2,DC,West,Los Angeles,Surgical & Mechanical,C,Start Backorder,0,0,0,0,0,0,0,0,0,0,0,0
+SKU_0003,DC2,DC2,DC,West,Los Angeles,Surgical & Mechanical,C,Total Demand,64,35,32,48,36,55,52,39,39,53,47,38
+SKU_0003,DC2,DC2,DC,West,Los Angeles,Surgical & Mechanical,C,Dist. Receipt Planned,0,140,0,0,82,84,98,0,76,93,99,0
+SKU_0003,DC2,DC2,DC,West,Los Angeles,Surgical & Mechanical,C,Total Supply,0,140,0,0,82,84,98,0,76,93,99,0
+SKU_0003,DC2,DC2,DC,West,Los Angeles,Surgical & Mechanical,C,End. Backorder,0,0,0,0,0,0,0,0,0,0,0,0
+SKU_0003,DC2,DC2,DC,West,Los Angeles,Surgical & Mechanical,C,End. Inventory,658,763,731,683,729,758,804,765,802,842,894,856
+SKU_0003,DC2,DC2,DC,West,Los Angeles,Surgical & Mechanical,C,Days of Coverage,72.0,152.6,159.9,99.6,141.8,96.5,108.2,137.3,143.9,111.2,133.1,157.7
+SKU_0003,DC2,DC2,DC,West,Los Angeles,Surgical & Mechanical,C,Target Safety Stock (in Days),28,28,28,28,28,28,28,28,28,28,28,28
+SKU_0003,DC2,DC2,DC,West,Los Angeles,Surgical & Mechanical,C,Target Safety Stock (in Units),195,195,195,195,195,195,195,195,195,195,195,195
+SKU_0003,DC2,DC2,DC,West,Los Angeles,Surgical & Mechanical,C,Cycle Stock (in Days),14,14,14,14,14,14,14,14,14,14,14,14
+SKU_0003,DC2,DC2,DC,West,Los Angeles,Surgical & Mechanical,C,Cycle Stock (in Units),98,98,98,98,98,98,98,98,98,98,98,98
+SKU_0003,DC2,DC2,DC,West,Los Angeles,Surgical & Mechanical,C,Target Max Stock (in Days),111,111,111,111,111,111,111,111,111,111,111,111
+SKU_0003,DC2,DC2,DC,West,Los Angeles,Surgical & Mechanical,C,Target Max Stock (in Units),775,775,775,775,775,775,775,775,775,775,775,775
+SKU_0003,DC2,DC2,DC,West,Los Angeles,Surgical & Mechanical,C,MSTN Thresold,195,195,195,195,195,195,195,195,195,195,195,195
+SKU_0003,DC2,DC2,DC,West,Los Angeles,Surgical & Mechanical,C,ESTN Thresold,775,775,775,775,775,775,775,775,775,775,775,775
+SKU_0003,DC2,DC2,DC,West,Los Angeles,Surgical & Mechanical,C,MSTN%,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+SKU_0003,DC2,DC2,DC,West,Los Angeles,Surgical & Mechanical,C,ESTN%,0.0,0.0,0.0,0.0,0.0,0.0,0.037419,0.0,0.034839,0.086452,0.153548,0.104516
+SKU_0003,DC2,DC2,DC,West,Los Angeles,Surgical & Mechanical,C,Shortage,0,0,0,0,0,0,0,0,0,0,0,0
+SKU_0003,DC2,DC2,DC,West,Los Angeles,Surgical & Mechanical,C,Excess,0,0,0,0,0,0,29,0,27,67,119,81
+SKU_0003,DC2,DC2,DC,West,Los Angeles,Surgical & Mechanical,C,Out of stock Value($),0,0,0,0,0,0,0,0,0,0,0,0
+SKU_0003,DC2,DC2,DC,West,Los Angeles,Surgical & Mechanical,C,Excess and over($),0,0,0,0,0,0,634,0,590,1465,2602,1771
+,,,,,,,,,,,,,,,,,,,,
+SKU_0003,DC4,DC4,DC,Northwest,Seattle,Surgical & Mechanical,C,Start Inventory,404,556,406,949,837,955,1028,1257,1427,1549,1434,1622
+SKU_0003,DC4,DC4,DC,Northwest,Seattle,Surgical & Mechanical,C,Total Forecast/Order,116,150,92,112,83,129,102,96,122,115,103,134
+SKU_0003,DC4,DC4,DC,Northwest,Seattle,Surgical & Mechanical,C,Start Backorder,0,0,0,0,0,0,0,0,0,0,0,0
+SKU_0003,DC4,DC4,DC,Northwest,Seattle,Surgical & Mechanical,C,Total Demand,116,150,92,112,83,129,102,96,122,115,103,134
+SKU_0003,DC4,DC4,DC,Northwest,Seattle,Surgical & Mechanical,C,Dist. Receipt Planned,268,0,635,0,201,202,331,266,244,0,291,0
+SKU_0003,DC4,DC4,DC,Northwest,Seattle,Surgical & Mechanical,C,Total Supply,268,0,635,0,201,202,331,266,244,0,291,0
+SKU_0003,DC4,DC4,DC,Northwest,Seattle,Surgical & Mechanical,C,End. Backorder,0,0,0,0,0,0,0,0,0,0,0,0
+SKU_0003,DC4,DC4,DC,Northwest,Seattle,Surgical & Mechanical,C,End. Inventory,556,406,949,837,955,1028,1257,1427,1549,1434,1622,1488
+SKU_0003,DC4,DC4,DC,Northwest,Seattle,Surgical & Mechanical,C,Days of Coverage,33.6,18.9,72.2,52.3,80.5,55.8,86.3,104.1,88.9,87.3,110.2,77.7
+SKU_0003,DC4,DC4,DC,Northwest,Seattle,Surgical & Mechanical,C,Target Safety Stock (in Days),28,28,28,28,28,28,28,28,28,28,28,28
+SKU_0003,DC4,DC4,DC,Northwest,Seattle,Surgical & Mechanical,C,Target Safety Stock (in Units),466,466,466,466,466,466,466,466,466,466,466,466
+SKU_0003,DC4,DC4,DC,Northwest,Seattle,Surgical & Mechanical,C,Cycle Stock (in Days),28,28,28,28,28,28,28,28,28,28,28,28
+SKU_0003,DC4,DC4,DC,Northwest,Seattle,Surgical & Mechanical,C,Cycle Stock (in Units),466,466,466,466,466,466,466,466,466,466,466,466
+SKU_0003,DC4,DC4,DC,Northwest,Seattle,Surgical & Mechanical,C,Target Max Stock (in Days),82,82,82,82,82,82,82,82,82,82,82,82
+SKU_0003,DC4,DC4,DC,Northwest,Seattle,Surgical & Mechanical,C,Target Max Stock (in Units),1368,1368,1368,1368,1368,1368,1368,1368,1368,1368,1368,1368
+SKU_0003,DC4,DC4,DC,Northwest,Seattle,Surgical & Mechanical,C,MSTN Thresold,466,466,466,466,466,466,466,466,466,466,466,466
+SKU_0003,DC4,DC4,DC,Northwest,Seattle,Surgical & Mechanical,C,ESTN Thresold,1368,1368,1368,1368,1368,1368,1368,1368,1368,1368,1368,1368
+SKU_0003,DC4,DC4,DC,Northwest,Seattle,Surgical & Mechanical,C,MSTN%,1.0,0.87,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+SKU_0003,DC4,DC4,DC,Northwest,Seattle,Surgical & Mechanical,C,ESTN%,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.043129,0.13231,0.048246,0.185673,0.087719
+SKU_0003,DC4,DC4,DC,Northwest,Seattle,Surgical & Mechanical,C,Shortage,0,60,0,0,0,0,0,0,0,0,0,0
+SKU_0003,DC4,DC4,DC,Northwest,Seattle,Surgical & Mechanical,C,Excess,0,0,0,0,0,0,0,59,181,66,254,120
+SKU_0003,DC4,DC4,DC,Northwest,Seattle,Surgical & Mechanical,C,Out of stock Value($),0,1899,0,0,0,0,0,0,0,0,0,0
+SKU_0003,DC4,DC4,DC,Northwest,Seattle,Surgical & Mechanical,C,Excess and over($),0,0,0,0,0,0,0,1867,5730,2089,8041,3799
+,,,,,,,,,,,,,,,,,,,,
+SKU_0003,DC5,DC5,DC,Southeast,Miami,Surgical & Mechanical,C,Start Inventory,1339,1428,1329,1442,1557,1887,2065,2562,2483,3132,3057,3062
+SKU_0003,DC5,DC5,DC,Southeast,Miami,Surgical & Mechanical,C,Total Forecast/Order,59,99,81,84,78,90,108,79,45,75,96,79
+SKU_0003,DC5,DC5,DC,Southeast,Miami,Surgical & Mechanical,C,Start Backorder,0,0,0,0,0,0,0,0,0,0,0,0
+SKU_0003,DC5,DC5,DC,Southeast,Miami,Surgical & Mechanical,C,Total Demand,59,99,81,84,78,90,108,79,45,75,96,79
+SKU_0003,DC5,DC5,DC,Southeast,Miami,Surgical & Mechanical,C,Dist. Receipt Planned,0,0,0,199,408,268,605,0,694,0,0,0
+SKU_0003,DC5,DC5,DC,Southeast,Miami,Surgical & Mechanical,C,Total Supply,148,0,194,199,408,268,605,0,694,0,101,0
+SKU_0003,DC5,DC5,DC,Southeast,Miami,Surgical & Mechanical,C,End. Backorder,0,0,0,0,0,0,0,0,0,0,0,0
+SKU_0003,DC5,DC5,DC,Southeast,Miami,Surgical & Mechanical,C,End. Inventory,1428,1329,1442,1557,1887,2065,2562,2483,3132,3057,3062,2983
+SKU_0003,DC5,DC5,DC,Southeast,Miami,Surgical & Mechanical,C,Days of Coverage,169.4,94.0,124.6,129.8,169.3,160.6,166.1,220.0,487.2,285.3,223.3,264.3
+SKU_0003,DC5,DC5,DC,Southeast,Miami,Surgical & Mechanical,C,Target Safety Stock (in Days),28,28,28,28,28,28,28,28,28,28,28,28
+SKU_0003,DC5,DC5,DC,Southeast,Miami,Surgical & Mechanical,C,Target Safety Stock (in Units),360,360,360,360,360,360,360,360,360,360,360,360
+SKU_0003,DC5,DC5,DC,Southeast,Miami,Surgical & Mechanical,C,Cycle Stock (in Days),14,14,14,14,14,14,14,14,14,14,14,14
+SKU_0003,DC5,DC5,DC,Southeast,Miami,Surgical & Mechanical,C,Cycle Stock (in Units),180,180,180,180,180,180,180,180,180,180,180,180
+SKU_0003,DC5,DC5,DC,Southeast,Miami,Surgical & Mechanical,C,Target Max Stock (in Days),104,104,104,104,104,104,104,104,104,104,104,104
+SKU_0003,DC5,DC5,DC,Southeast,Miami,Surgical & Mechanical,C,Target Max Stock (in Units),1342,1342,1342,1342,1342,1342,1342,1342,1342,1342,1342,1342
+SKU_0003,DC5,DC5,DC,Southeast,Miami,Surgical & Mechanical,C,MSTN Thresold,360,360,360,360,360,360,360,360,360,360,360,360
+SKU_0003,DC5,DC5,DC,Southeast,Miami,Surgical & Mechanical,C,ESTN Thresold,1342,1342,1342,1342,1342,1342,1342,1342,1342,1342,1342,1342
+SKU_0003,DC5,DC5,DC,Southeast,Miami,Surgical & Mechanical,C,MSTN%,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+SKU_0003,DC5,DC5,DC,Southeast,Miami,Surgical & Mechanical,C,ESTN%,0.064083,0.0,0.074516,0.160209,0.40611,0.538748,0.909091,0.850224,1.33383,1.277943,1.281669,1.222802
+SKU_0003,DC5,DC5,DC,Southeast,Miami,Surgical & Mechanical,C,Shortage,0,0,0,0,0,0,0,0,0,0,0,0
+SKU_0003,DC5,DC5,DC,Southeast,Miami,Surgical & Mechanical,C,Excess,86,0,100,215,545,723,1220,1141,1790,1715,1720,1641
+SKU_0003,DC5,DC5,DC,Southeast,Miami,Surgical & Mechanical,C,Out of stock Value($),0,0,0,0,0,0,0,0,0,0,0,0
+SKU_0003,DC5,DC5,DC,Southeast,Miami,Surgical & Mechanical,C,Excess and over($),2555,0,2971,6387,16191,21480,36246,33899,53180,50952,51101,48754
+,,,,,,,,,,,,,,,,,,,,
+SKU_0003,F1,F1,Factory,Midwest,Detroit,Surgical & Mechanical,C,Start Inventory,2773,2580,1895,2219,1528,2052,906,580,0,2112,2633,4863
+SKU_0003,F1,F1,Factory,Midwest,Detroit,Surgical & Mechanical,C,Total Forecast/Order,193,685,199,691,606,1146,326,1278,148,469,0,0
+SKU_0003,F1,F1,Factory,Midwest,Detroit,Surgical & Mechanical,C,Start Backorder,0,0,0,0,0,0,0,0,698,0,0,0
+SKU_0003,F1,F1,Factory,Midwest,Detroit,Surgical & Mechanical,C,Total Demand,193,685,199,691,606,1146,326,1278,846,469,0,0
+SKU_0003,F1,F1,Factory,Midwest,Detroit,Surgical & Mechanical,C,Dist. Receipt Planned,0,0,0,0,1130,0,0,0,2958,990,2230,1098
+SKU_0003,F1,F1,Factory,Midwest,Detroit,Surgical & Mechanical,C,Total Supply,0,0,523,0,1130,0,0,0,2958,990,2230,1098
+SKU_0003,F1,F1,Factory,Midwest,Detroit,Surgical & Mechanical,C,End. Backorder,0,0,0,0,0,0,0,698,0,0,0,0
+SKU_0003,F1,F1,Factory,Midwest,Detroit,Surgical & Mechanical,C,End. Inventory,2580,1895,2219,1528,2052,906,580,0,2112,2633,4863,5961
+SKU_0003,F1,F1,Factory,Midwest,Detroit,Surgical & Mechanical,C,Days of Coverage,93.6,19.4,78.1,15.5,23.7,5.5,12.5,0.0,99.9,39.3,0,0
+SKU_0003,F1,F1,Factory,Midwest,Detroit,Surgical & Mechanical,C,Target Safety Stock (in Days),28,28,28,28,28,28,28,28,28,28,28,28
+SKU_0003,F1,F1,Factory,Midwest,Detroit,Surgical & Mechanical,C,Target Safety Stock (in Units),1424,1424,1424,1424,1424,1424,1424,1424,1424,1424,1424,1424
+SKU_0003,F1,F1,Factory,Midwest,Detroit,Surgical & Mechanical,C,Cycle Stock (in Days),49,49,49,49,49,49,49,49,49,49,49,49
+SKU_0003,F1,F1,Factory,Midwest,Detroit,Surgical & Mechanical,C,Cycle Stock (in Units),2492,2492,2492,2492,2492,2492,2492,2492,2492,2492,2492,2492
+SKU_0003,F1,F1,Factory,Midwest,Detroit,Surgical & Mechanical,C,Target Max Stock (in Days),92,92,92,92,92,92,92,92,92,92,92,92
+SKU_0003,F1,F1,Factory,Midwest,Detroit,Surgical & Mechanical,C,Target Max Stock (in Units),4700,4700,4700,4700,4700,4700,4700,4700,4700,4700,4700,4700
+SKU_0003,F1,F1,Factory,Midwest,Detroit,Surgical & Mechanical,C,MSTN Thresold,1424,1424,1424,1424,1424,1424,1424,1424,1424,1424,1424,1424
+SKU_0003,F1,F1,Factory,Midwest,Detroit,Surgical & Mechanical,C,ESTN Thresold,4700,4700,4700,4700,4700,4700,4700,4700,4700,4700,4700,4700
+SKU_0003,F1,F1,Factory,Midwest,Detroit,Surgical & Mechanical,C,MSTN%,1.0,1.0,1.0,1.0,1.0,0.63,0.4,0.0,1.0,1.0,1.0,1.0
+SKU_0003,F1,F1,Factory,Midwest,Detroit,Surgical & Mechanical,C,ESTN%,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.034681,0.268298
+SKU_0003,F1,F1,Factory,Midwest,Detroit,Surgical & Mechanical,C,Shortage,0,0,0,0,0,518,844,2122,0,0,0,0
+SKU_0003,F1,F1,Factory,Midwest,Detroit,Surgical & Mechanical,C,Excess,0,0,0,0,0,0,0,0,0,0,163,1261
+SKU_0003,F1,F1,Factory,Midwest,Detroit,Surgical & Mechanical,C,Out of stock Value($),0,0,0,0,0,16943,27607,69410,0,0,0,0
+SKU_0003,F1,F1,Factory,Midwest,Detroit,Surgical & Mechanical,C,Excess and over($),0,0,0,0,0,0,0,0,0,0,5331,41247
+,,,,,,,,,,,,,,,,,,,,
+SKU_0004,DC1,DC1,DC,Northeast,New York,Medical Devices & Diagnostics,C,Start Inventory,411,377,307,413,357,281,346,349,732,682,770,815
+SKU_0004,DC1,DC1,DC,Northeast,New York,Medical Devices & Diagnostics,C,Total Forecast/Order,34,70,29,56,76,66,71,43,50,64,54,77
+SKU_0004,DC1,DC1,DC,Northeast,New York,Medical Devices & Diagnostics,C,Start Backorder,0,0,0,0,0,0,0,0,0,0,0,0
+SKU_0004,DC1,DC1,DC,Northeast,New York,Medical Devices & Diagnostics,C,Total Demand,34,70,29,56,76,66,71,43,50,64,54,77
+SKU_0004,DC1,DC1,DC,Northeast,New York,Medical Devices & Diagnostics,C,Dist. Receipt Planned,0,0,0,0,0,131,0,426,0,152,99,170
+SKU_0004,DC1,DC1,DC,Northeast,New York,Medical Devices & Diagnostics,C,Total Supply,0,0,135,0,0,131,74,426,0,152,99,170
+SKU_0004,DC1,DC1,DC,Northeast,New York,Medical Devices & Diagnostics,C,End. Backorder,0,0,0,0,0,0,0,0,0,0,0,0
+SKU_0004,DC1,DC1,DC,Northeast,New York,Medical Devices & Diagnostics,C,End. Inventory,377,307,413,357,281,346,349,732,682,770,815,908
+SKU_0004,DC1,DC1,DC,Northeast,New York,Medical Devices & Diagnostics,C,Days of Coverage,77.6,30.7,99.7,44.6,25.9,36.7,34.4,119.2,95.5,84.2,105.6,82.5
+SKU_0004,DC1,DC1,DC,Northeast,New York,Medical Devices & Diagnostics,C,Target Safety Stock (in Days),28,28,28,28,28,28,28,28,28,28,28,28
+SKU_0004,DC1,DC1,DC,Northeast,New York,Medical Devices & Diagnostics,C,Target Safety Stock (in Units),247,247,247,247,247,247,247,247,247,247,247,247
+SKU_0004,DC1,DC1,DC,Northeast,New York,Medical Devices & Diagnostics,C,Cycle Stock (in Days),28,28,28,28,28,28,28,28,28,28,28,28
+SKU_0004,DC1,DC1,DC,Northeast,New York,Medical Devices & Diagnostics,C,Cycle Stock (in Units),247,247,247,247,247,247,247,247,247,247,247,247
+SKU_0004,DC1,DC1,DC,Northeast,New York,Medical Devices & Diagnostics,C,Target Max Stock (in Days),109,109,109,109,109,109,109,109,109,109,109,109
+SKU_0004,DC1,DC1,DC,Northeast,New York,Medical Devices & Diagnostics,C,Target Max Stock (in Units),958,958,958,958,958,958,958,958,958,958,958,958
+SKU_0004,DC1,DC1,DC,Northeast,New York,Medical Devices & Diagnostics,C,MSTN Thresold,247,247,247,247,247,247,247,247,247,247,247,247
+SKU_0004,DC1,DC1,DC,Northeast,New York,Medical Devices & Diagnostics,C,ESTN Thresold,958,958,958,958,958,958,958,958,958,958,958,958
+SKU_0004,DC1,DC1,DC,Northeast,New York,Medical Devices & Diagnostics,C,MSTN%,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+SKU_0004,DC1,DC1,DC,Northeast,New York,Medical Devices & Diagnostics,C,ESTN%,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SKU_0004,DC1,DC1,DC,Northeast,New York,Medical Devices & Diagnostics,C,Shortage,0,0,0,0,0,0,0,0,0,0,0,0
+SKU_0004,DC1,DC1,DC,Northeast,New York,Medical Devices & Diagnostics,C,Excess,0,0,0,0,0,0,0,0,0,0,0,0
+SKU_0004,DC1,DC1,DC,Northeast,New York,Medical Devices & Diagnostics,C,Out of stock Value($),0,0,0,0,0,0,0,0,0,0,0,0
+SKU_0004,DC1,DC1,DC,Northeast,New York,Medical Devices & Diagnostics,C,Excess and over($),0,0,0,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,
+SKU_0004,DC2,DC2,DC,West,Los Angeles,Medical Devices & Diagnostics,C,Start Inventory,639,873,1413,1276,1519,1418,1288,1494,1665,2121,2297,2174
+SKU_0004,DC2,DC2,DC,West,Los Angeles,Medical Devices & Diagnostics,C,Total Forecast/Order,108,111,137,90,101,130,145,123,150,106,123,134
+SKU_0004,DC2,DC2,DC,West,Los Angeles,Medical Devices & Diagnostics,C,Start Backorder,0,0,0,0,0,0,0,0,0,0,0,0
+SKU_0004,DC2,DC2,DC,West,Los Angeles,Medical Devices & Diagnostics,C,Total Demand,108,111,137,90,101,130,145,123,150,106,123,134
+SKU_0004,DC2,DC2,DC,West,Los Angeles,Medical Devices & Diagnostics,C,Dist. Receipt Planned,342,651,0,333,0,0,0,294,606,282,0,0
+SKU_0004,DC2,DC2,DC,West,Los Angeles,Medical Devices & Diagnostics,C,Total Supply,342,651,0,333,0,0,351,294,606,282,0,198
+SKU_0004,DC2,DC2,DC,West,Los Angeles,Medical Devices & Diagnostics,C,End. Backorder,0,0,0,0,0,0,0,0,0,0,0,0
+SKU_0004,DC2,DC2,DC,West,Los Angeles,Medical Devices & Diagnostics,C,End. Inventory,873,1413,1276,1519,1418,1288,1494,1665,2121,2297,2174,2238
+SKU_0004,DC2,DC2,DC,West,Los Angeles,Medical Devices & Diagnostics,C,Days of Coverage,56.6,89.1,65.2,118.1,98.3,69.4,72.1,94.8,99.0,151.7,123.7,116.9
+SKU_0004,DC2,DC2,DC,West,Los Angeles,Medical Devices & Diagnostics,C,Target Safety Stock (in Days),28,28,28,28,28,28,28,28,28,28,28,28
+SKU_0004,DC2,DC2,DC,West,Los Angeles,Medical Devices & Diagnostics,C,Target Safety Stock (in Units),497,497,497,497,497,497,497,497,497,497,497,497
+SKU_0004,DC2,DC2,DC,West,Los Angeles,Medical Devices & Diagnostics,C,Cycle Stock (in Days),28,28,28,28,28,28,28,28,28,28,28,28
+SKU_0004,DC2,DC2,DC,West,Los Angeles,Medical Devices & Diagnostics,C,Cycle Stock (in Units),497,497,497,497,497,497,497,497,497,497,497,497
+SKU_0004,DC2,DC2,DC,West,Los Angeles,Medical Devices & Diagnostics,C,Target Max Stock (in Days),65,65,65,65,65,65,65,65,65,65,65,65
+SKU_0004,DC2,DC2,DC,West,Los Angeles,Medical Devices & Diagnostics,C,Target Max Stock (in Units),1159,1159,1159,1159,1159,1159,1159,1159,1159,1159,1159,1159
+SKU_0004,DC2,DC2,DC,West,Los Angeles,Medical Devices & Diagnostics,C,MSTN Thresold,497,497,497,497,497,497,497,497,497,497,497,497
+SKU_0004,DC2,DC2,DC,West,Los Angeles,Medical Devices & Diagnostics,C,ESTN Thresold,1159,1159,1159,1159,1159,1159,1159,1159,1159,1159,1159,1159
+SKU_0004,DC2,DC2,DC,West,Los Angeles,Medical Devices & Diagnostics,C,MSTN%,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+SKU_0004,DC2,DC2,DC,West,Los Angeles,Medical Devices & Diagnostics,C,ESTN%,0.0,0.219154,0.100949,0.310613,0.223469,0.111303,0.289042,0.436583,0.830026,0.981881,0.875755,0.930975
+SKU_0004,DC2,DC2,DC,West,Los Angeles,Medical Devices & Diagnostics,C,Shortage,0,0,0,0,0,0,0,0,0,0,0,0
+SKU_0004,DC2,DC2,DC,West,Los Angeles,Medical Devices & Diagnostics,C,Excess,0,254,117,360,259,129,335,506,962,1138,1015,1079
+SKU_0004,DC2,DC2,DC,West,Los Angeles,Medical Devices & Diagnostics,C,Out of stock Value($),0,0,0,0,0,0,0,0,0,0,0,0
+SKU_0004,DC2,DC2,DC,West,Los Angeles,Medical Devices & Diagnostics,C,Excess and over($),0,9456,4355,13402,9642,4802,12472,18838,35815,42367,37788,40171
+,,,,,,,,,,,,,,,,,,,,
+SKU_0004,DC4,DC4,DC,Northwest,Seattle,Medical Devices & Diagnostics,C,Start Inventory,321,206,298,197,404,258,960,853,741,635,780,922
+SKU_0004,DC4,DC4,DC,Northwest,Seattle,Medical Devices & Diagnostics,C,Total Forecast/Order,115,116,101,109,146,137,107,112,106,125,114,122
+SKU_0004,DC4,DC4,DC,Northwest,Seattle,Medical Devices & Diagnostics,C,Start Backorder,0,0,0,0,0,0,0,0,0,0,0,0
+SKU_0004,DC4,DC4,DC,Northwest,Seattle,Medical Devices & Diagnostics,C,Total Demand,115,116,101,109,146,137,107,112,106,125,114,122
+SKU_0004,DC4,DC4,DC,Northwest,Seattle,Medical Devices & Diagnostics,C,Dist. Receipt Planned,0,0,0,0,0,839,0,0,0,270,256,0
+SKU_0004,DC4,DC4,DC,Northwest,Seattle,Medical Devices & Diagnostics,C,Total Supply,0,208,0,316,0,839,0,0,0,270,256,0
+SKU_0004,DC4,DC4,DC,Northwest,Seattle,Medical Devices & Diagnostics,C,End. Backorder,0,0,0,0,0,0,0,0,0,0,0,0
+SKU_0004,DC4,DC4,DC,Northwest,Seattle,Medical Devices & Diagnostics,C,End. Inventory,206,298,197,404,258,960,853,741,635,780,922,800
+SKU_0004,DC4,DC4,DC,Northwest,Seattle,Medical Devices & Diagnostics,C,Days of Coverage,12.5,18.0,13.7,25.9,12.4,49.1,55.8,46.3,41.9,43.7,56.6,45.9
+SKU_0004,DC4,DC4,DC,Northwest,Seattle,Medical Devices & Diagnostics,C,Target Safety Stock (in Days),28,28,28,28,28,28,28,28,28,28,28,28
+SKU_0004,DC4,DC4,DC,Northwest,Seattle,Medical Devices & Diagnostics,C,Target Safety Stock (in Units),460,460,460,460,460,460,460,460,460,460,460,460
+SKU_0004,DC4,DC4,DC,Northwest,Seattle,Medical Devices & Diagnostics,C,Cycle Stock (in Days),21,21,21,21,21,21,21,21,21,21,21,21
+SKU_0004,DC4,DC4,DC,Northwest,Seattle,Medical Devices & Diagnostics,C,Cycle Stock (in Units),345,345,345,345,345,345,345,345,345,345,345,345
+SKU_0004,DC4,DC4,DC,Northwest,Seattle,Medical Devices & Diagnostics,C,Target Max Stock (in Days),98,98,98,98,98,98,98,98,98,98,98,98
+SKU_0004,DC4,DC4,DC,Northwest,Seattle,Medical Devices & Diagnostics,C,Target Max Stock (in Units),1604,1604,1604,1604,1604,1604,1604,1604,1604,1604,1604,1604
+SKU_0004,DC4,DC4,DC,Northwest,Seattle,Medical Devices & Diagnostics,C,MSTN Thresold,460,460,460,460,460,460,460,460,460,460,460,460
+SKU_0004,DC4,DC4,DC,Northwest,Seattle,Medical Devices & Diagnostics,C,ESTN Thresold,1604,1604,1604,1604,1604,1604,1604,1604,1604,1604,1604,1604
+SKU_0004,DC4,DC4,DC,Northwest,Seattle,Medical Devices & Diagnostics,C,MSTN%,0.44,0.64,0.42,0.87,0.56,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+SKU_0004,DC4,DC4,DC,Northwest,Seattle,Medical Devices & Diagnostics,C,ESTN%,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SKU_0004,DC4,DC4,DC,Northwest,Seattle,Medical Devices & Diagnostics,C,Shortage,254,162,263,56,202,0,0,0,0,0,0,0
+SKU_0004,DC4,DC4,DC,Northwest,Seattle,Medical Devices & Diagnostics,C,Excess,0,0,0,0,0,0,0,0,0,0,0,0
+SKU_0004,DC4,DC4,DC,Northwest,Seattle,Medical Devices & Diagnostics,C,Out of stock Value($),8247,5260,8539,1818,6558,0,0,0,0,0,0,0
+SKU_0004,DC4,DC4,DC,Northwest,Seattle,Medical Devices & Diagnostics,C,Excess and over($),0,0,0,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,
+SKU_0004,DC5,DC5,DC,Southeast,Miami,Medical Devices & Diagnostics,C,Start Inventory,195,219,241,223,205,191,204,225,213,200,182,168
+SKU_0004,DC5,DC5,DC,Southeast,Miami,Medical Devices & Diagnostics,C,Total Forecast/Order,12,19,18,18,14,12,12,12,13,18,14,18
+SKU_0004,DC5,DC5,DC,Southeast,Miami,Medical Devices & Diagnostics,C,Start Backorder,0,0,0,0,0,0,0,0,0,0,0,0
+SKU_0004,DC5,DC5,DC,Southeast,Miami,Medical Devices & Diagnostics,C,Total Demand,12,19,18,18,14,12,12,12,13,18,14,18
+SKU_0004,DC5,DC5,DC,Southeast,Miami,Medical Devices & Diagnostics,C,Dist. Receipt Planned,36,0,0,0,0,25,0,0,0,0,0,0
+SKU_0004,DC5,DC5,DC,Southeast,Miami,Medical Devices & Diagnostics,C,Total Supply,36,41,0,0,0,25,33,0,0,0,0,0
+SKU_0004,DC5,DC5,DC,Southeast,Miami,Medical Devices & Diagnostics,C,End. Backorder,0,0,0,0,0,0,0,0,0,0,0,0
+SKU_0004,DC5,DC5,DC,Southeast,Miami,Medical Devices & Diagnostics,C,End. Inventory,219,241,223,205,191,204,225,213,200,182,168,150
+SKU_0004,DC5,DC5,DC,Southeast,Miami,Medical Devices & Diagnostics,C,Days of Coverage,127.8,88.8,86.7,79.7,95.5,119.0,131.2,124.2,107.7,70.8,84.0,58.3
+SKU_0004,DC5,DC5,DC,Southeast,Miami,Medical Devices & Diagnostics,C,Target Safety Stock (in Days),28,28,28,28,28,28,28,28,28,28,28,28
+SKU_0004,DC5,DC5,DC,Southeast,Miami,Medical Devices & Diagnostics,C,Target Safety Stock (in Units),59,59,59,59,59,59,59,59,59,59,59,59
+SKU_0004,DC5,DC5,DC,Southeast,Miami,Medical Devices & Diagnostics,C,Cycle Stock (in Days),21,21,21,21,21,21,21,21,21,21,21,21
+SKU_0004,DC5,DC5,DC,Southeast,Miami,Medical Devices & Diagnostics,C,Cycle Stock (in Units),44,44,44,44,44,44,44,44,44,44,44,44
+SKU_0004,DC5,DC5,DC,Southeast,Miami,Medical Devices & Diagnostics,C,Target Max Stock (in Days),84,84,84,84,84,84,84,84,84,84,84,84
+SKU_0004,DC5,DC5,DC,Southeast,Miami,Medical Devices & Diagnostics,C,Target Max Stock (in Units),176,176,176,176,176,176,176,176,176,176,176,176
+SKU_0004,DC5,DC5,DC,Southeast,Miami,Medical Devices & Diagnostics,C,MSTN Thresold,59,59,59,59,59,59,59,59,59,59,59,59
+SKU_0004,DC5,DC5,DC,Southeast,Miami,Medical Devices & Diagnostics,C,ESTN Thresold,176,176,176,176,176,176,176,176,176,176,176,176
+SKU_0004,DC5,DC5,DC,Southeast,Miami,Medical Devices & Diagnostics,C,MSTN%,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+SKU_0004,DC5,DC5,DC,Southeast,Miami,Medical Devices & Diagnostics,C,ESTN%,0.244318,0.369318,0.267045,0.164773,0.085227,0.159091,0.278409,0.210227,0.136364,0.034091,0.0,0.0
+SKU_0004,DC5,DC5,DC,Southeast,Miami,Medical Devices & Diagnostics,C,Shortage,0,0,0,0,0,0,0,0,0,0,0,0
+SKU_0004,DC5,DC5,DC,Southeast,Miami,Medical Devices & Diagnostics,C,Excess,43,65,47,29,15,28,49,37,24,6,0,0
+SKU_0004,DC5,DC5,DC,Southeast,Miami,Medical Devices & Diagnostics,C,Out of stock Value($),0,0,0,0,0,0,0,0,0,0,0,0
+SKU_0004,DC5,DC5,DC,Southeast,Miami,Medical Devices & Diagnostics,C,Excess and over($),618,934,675,417,215,402,704,532,345,86,0,0
+,,,,,,,,,,,,,,,,,,,,
+SKU_0004,F1,F1,Factory,Midwest,Detroit,Medical Devices & Diagnostics,C,Start Inventory,1662,600,1009,1427,2581,1586,1498,778,172,871,516,1572
+SKU_0004,F1,F1,Factory,Midwest,Detroit,Medical Devices & Diagnostics,C,Total Forecast/Order,1062,0,812,0,995,531,720,606,704,355,170,0
+SKU_0004,F1,F1,Factory,Midwest,Detroit,Medical Devices & Diagnostics,C,Start Backorder,0,0,0,0,0,0,0,0,0,0,0,0
+SKU_0004,F1,F1,Factory,Midwest,Detroit,Medical Devices & Diagnostics,C,Total Demand,1062,0,812,0,995,531,720,606,704,355,170,0
+SKU_0004,F1,F1,Factory,Midwest,Detroit,Medical Devices & Diagnostics,C,Dist. Receipt Planned,0,0,1230,1154,0,0,0,0,1403,0,1226,842
+SKU_0004,F1,F1,Factory,Midwest,Detroit,Medical Devices & Diagnostics,C,Total Supply,0,409,1230,1154,0,443,0,0,1403,0,1226,842
+SKU_0004,F1,F1,Factory,Midwest,Detroit,Medical Devices & Diagnostics,C,End. Backorder,0,0,0,0,0,0,0,0,0,0,0,0
+SKU_0004,F1,F1,Factory,Midwest,Detroit,Medical Devices & Diagnostics,C,End. Inventory,600,1009,1427,2581,1586,1498,778,172,871,516,1572,2414
+SKU_0004,F1,F1,Factory,Midwest,Detroit,Medical Devices & Diagnostics,C,Days of Coverage,4.0,0,12.3,0,11.2,19.7,7.6,2.0,8.7,10.2,64.7,0
+SKU_0004,F1,F1,Factory,Midwest,Detroit,Medical Devices & Diagnostics,C,Target Safety Stock (in Days),28,28,28,28,28,28,28,28,28,28,28,28
+SKU_0004,F1,F1,Factory,Midwest,Detroit,Medical Devices & Diagnostics,C,Target Safety Stock (in Units),1543,1543,1543,1543,1543,1543,1543,1543,1543,1543,1543,1543
+SKU_0004,F1,F1,Factory,Midwest,Detroit,Medical Devices & Diagnostics,C,Cycle Stock (in Days),42,42,42,42,42,42,42,42,42,42,42,42
+SKU_0004,F1,F1,Factory,Midwest,Detroit,Medical Devices & Diagnostics,C,Cycle Stock (in Units),2314,2314,2314,2314,2314,2314,2314,2314,2314,2314,2314,2314
+SKU_0004,F1,F1,Factory,Midwest,Detroit,Medical Devices & Diagnostics,C,Target Max Stock (in Days),87,87,87,87,87,87,87,87,87,87,87,87
+SKU_0004,F1,F1,Factory,Midwest,Detroit,Medical Devices & Diagnostics,C,Target Max Stock (in Units),4777,4777,4777,4777,4777,4777,4777,4777,4777,4777,4777,4777
+SKU_0004,F1,F1,Factory,Midwest,Detroit,Medical Devices & Diagnostics,C,MSTN Thresold,1543,1543,1543,1543,1543,1543,1543,1543,1543,1543,1543,1543
+SKU_0004,F1,F1,Factory,Midwest,Detroit,Medical Devices & Diagnostics,C,ESTN Thresold,4777,4777,4777,4777,4777,4777,4777,4777,4777,4777,4777,4777
+SKU_0004,F1,F1,Factory,Midwest,Detroit,Medical Devices & Diagnostics,C,MSTN%,0.38,0.65,0.92,1.0,1.0,0.97,0.5,0.11,0.56,0.33,1.0,1.0
+SKU_0004,F1,F1,Factory,Midwest,Detroit,Medical Devices & Diagnostics,C,ESTN%,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+SKU_0004,F1,F1,Factory,Midwest,Detroit,Medical Devices & Diagnostics,C,Shortage,943,534,116,0,0,45,765,1371,672,1027,0,0
+SKU_0004,F1,F1,Factory,Midwest,Detroit,Medical Devices & Diagnostics,C,Excess,0,0,0,0,0,0,0,0,0,0,0,0
+SKU_0004,F1,F1,Factory,Midwest,Detroit,Medical Devices & Diagnostics,C,Out of stock Value($),12334,6984,1517,0,0,588,10006,17932,8789,13433,0,0
+SKU_0004,F1,F1,Factory,Midwest,Detroit,Medical Devices & Diagnostics,C,Excess and over($),0,0,0,0,0,0,0,0,0,0,0,0
+,,,,,,,,,,,,,,,,,,,,
+SKU_0005,DC1,DC1,DC,Northeast,New York,Medical Devices & Diagnostics,A,Start Inventory,577,695,1311,1203,1310,1455,1982,1897,2392,2434,2573,2472
+SKU_0005,DC1,DC1,DC,Northeast,New York,Medical Devices & Diagnostics,A,Total Forecast/Order,93,65,108,87,80,83,85,80,93,104,101,89
+SKU_0005,DC1,DC1,DC,Northeast,New York,Medical Devices & Diagnostics,A,Start Backorder,0,0,0,0,0,0,0,0,0,0,0,0
+SKU_0005,DC1,DC1,DC,Northeast,New York,Medical Devices & Diagnostics,A,Total Demand,93,65,108,87,80,83,85,80,93,104,101,89
+SKU_0005,DC1,DC1,DC,Northeast,New York,Medical Devices & Diagnostics,A,Dist. Receipt Planned,0,681,0,0,225,610,0,575,135,0,0,0
+SKU_0005,DC1,DC1,DC,Northeast,New York,Medical Devices & Diagnostics,A,Total Supply,211,681,0,194,225,610,0,575,135,243,0,0
+SKU_0005,DC1,DC1,DC,Northeast,New York,Medical Devices & Diagnostics,A,End. Backorder,0,0,0,0,0,0,0,0,0,0,0,0
+SKU_0005,DC1,DC1,DC,Northeast,New York,Medical Devices & Diagnostics,A,End. Inventory,695,1311,1203,1310,1455,1982,1897,2392,2434,2573,2472,2383
+SKU_0005,DC1,DC1,DC,Northeast,New York,Medical Devices & Diagnostics,A,Days of Coverage,52.3,141.2,78.0,105.4,127.3,167.2,156.2,209.3,183.2,173.2,171.3,187.4
+SKU_0005,DC1,DC1,DC,Northeast,New York,Medical Devices & Diagnostics,A,Target Safety Stock (in Days),28,28,28,28,28,28,28,28,28,28,28,28
+SKU_0005,DC1,DC1,DC,Northeast,New York,Medical Devices & Diagnostics,A,Target Safety Stock (in Units),354,354,354,354,354,354,354,354,354,354,354,354
+SKU_0005,DC1,DC1,DC,Northeast,New York,Medical Devices & Diagnostics,A,Cycle Stock (in Days),21,21,21,21,21,21,21,21,21,21,21,21
+SKU_0005,DC1,DC1,DC,Northeast,New York,Medical Devices & Diagnostics,A,Cycle Stock (in Units),266,266,266,266,266,266,266,266,266,266,266,266
+SKU_0005,DC1,DC1,DC,Northeast,New York,Medical Devices & Diagnostics,A,Target Max Stock (in Days),64,64,64,64,64,64,64,64,64,64,64,64
+SKU_0005,DC1,DC1,DC,Northeast,New York,Medical Devices & Diagnostics,A,Target Max Stock (in Units),804,804,804,804,804,804,804,804,804,804,804,804
+SKU_0005,DC1,DC1,DC,Northeast,New York,Medical Devices & Diagnostics,A,MSTN Thresold,354,354,354,354,354,354,354,354,354,354,354,354
+SKU_0005,DC1,DC1,DC,Northeast,New York,Medical Devices & Diagnostics,A,ESTN Thresold,804,804,804,804,804,804,804,804,804,804,804,804
+SKU_0005,DC1,DC1,DC,Northeast,New York,Medical Devices & Diagnostics,A,MSTN%,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+SKU_0005,DC1,DC1,DC,Northeast,New York,Medical Devices & Diagnostics,A,ESTN%,0.0,0.630597,0.496269,0.629353,0.809701,1.465174,1.359453,1.975124,2.027363,2.200249,2.074627,1.96393
+SKU_0005,DC1,DC1,DC,Northeast,New York,Medical Devices & Diagnostics,A,Shortage,0,0,0,0,0,0,0,0,0,0,0,0
+SKU_0005,DC1,DC1,DC,Northeast,New York,Medical Devices & Diagnostics,A,Excess,0,507,399,506,651,1178,1093,1588,1630,1769,1668,1579
+SKU_0005,DC1,DC1,DC,Northeast,New York,Medical Devices & Diagnostics,A,Out of stock Value($),0,0,0,0,0,0,0,0,0,0,0,0
+SKU_0005,DC1,DC1,DC,Northeast,New York,Medical Devices & Diagnostics,A,Excess and over($),0,13754,10824,13727,17661,31959,29653,43082,44221,47992,45252,42838
+,,,,,,,,,,,,,,,,,,,,
+SKU_0005,DC2,DC2,DC,West,Los Angeles,Medical Devices & Diagnostics,A,Start Inventory,111,98,91,99,114,149,165,188,219,221,228,260
+SKU_0005,DC2,DC2,DC,West,Los Angeles,Medical Devices & Diagnostics,A,Total Forecast/Order,13,7,10,9,9,11,22,13,18,20,13,18
+SKU_0005,DC2,DC2,DC,West,Los Angeles,Medical Devices & Diagnostics,A,Start Backorder,0,0,0,0,0,0,0,0,0,0,0,0
+SKU_0005,DC2,DC2,DC,West,Los Angeles,Medical Devices & Diagnostics,A,Total Demand,13,7,10,9,9,11,22,13,18,20,13,18
+SKU_0005,DC2,DC2,DC,West,Los Angeles,Medical Devices & Diagnostics,A,Dist. Receipt Planned,0,0,0,0,0,0,45,44,0,27,45,0
+SKU_0005,DC2,DC2,DC,West,Los Angeles,Medical Devices & Diagnostics,A,Total Supply,0,0,18,24,44,27,45,44,20,27,45,0
+SKU_0005,DC2,DC2,DC,West,Los Angeles,Medical Devices & Diagnostics,A,End. Backorder,0,0,0,0,0,0,0,0,0,0,0,0
+SKU_0005,DC2,DC2,DC,West,Los Angeles,Medical Devices & Diagnostics,A,End. Inventory,98,91,99,114,149,165,188,219,221,228,260,242
+SKU_0005,DC2,DC2,DC,West,Los Angeles,Medical Devices & Diagnostics,A,Days of Coverage,52.8,91.0,69.3,88.7,115.9,105.0,59.8,117.9,85.9,79.8,140.0,94.1
+SKU_0005,DC2,DC2,DC,West,Los Angeles,Medical Devices & Diagnostics,A,Target Safety Stock (in Days),28,28,28,28,28,28,28,28,28,28,28,28
+SKU_0005,DC2,DC2,DC,West,Los Angeles,Medical Devices & Diagnostics,A,Target Safety Stock (in Units),61,61,61,61,61,61,61,61,61,61,61,61
+SKU_0005,DC2,DC2,DC,West,Los Angeles,Medical Devices & Diagnostics,A,Cycle Stock (in Days),28,28,28,28,28,28,28,28,28,28,28,28
+SKU_0005,DC2,DC2,DC,West,Los Angeles,Medical Devices & Diagnostics,A,Cycle Stock (in Units),61,61,61,61,61,61,61,61,61,61,61,61
+SKU_0005,DC2,DC2,DC,West,Los Angeles,Medical Devices & Diagnostics,A,Target Max Stock (in Days),86,86,86,86,86,86,86,86,86,86,86,86
+SKU_0005,DC2,DC2,DC,West,Los Angeles,Medical Devices & Diagnostics,A,Target Max Stock (in Units),188,188,188,188,188,188,188,188,188,188,188,188
+SKU_0005,DC2,DC2,DC,West,Los Angeles,Medical Devices & Diagnostics,A,MSTN Thresold,61,61,61,61,61,61,61,61,61,61,61,61
+SKU_0005,DC2,DC2,DC,West,Los Angeles,Medical Devices & Diagnostics,A,ESTN Thresold,188,188,188,188,188,188,188,188,188,188,188,188
+SKU_0005,DC2,DC2,DC,West,Los Angeles,Medical Devices & Diagnostics,A,MSTN%,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+SKU_0005,DC2,DC2,DC,West,Los Angeles,Medical Devices & Diagnostics,A,ESTN%,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.164894,0.175532,0.212766,0.382979,0.287234
+SKU_0005,DC2,DC2,DC,West,Los Angeles,Medical Devices & Diagnostics,A,Shortage,0,0,0,0,0,0,0,0,0,0,0,0
+SKU_0005,DC2,DC2,DC,West,Los Angeles,Medical Devices & Diagnostics,A,Excess,0,0,0,0,0,0,0,31,33,40,72,54
+SKU_0005,DC2,DC2,DC,West,Los Angeles,Medical Devices & Diagnostics,A,Out of stock Value($),0,0,0,0,0,0,0,0,0,0,0,0
+SKU_0005,DC2,DC2,DC,West,Los Angeles,Medical Devices & Diagnostics,A,Excess and over($),0,0,0,0,0,0,0,327,348,422,759,569
+,,,,,,,,,,,,,,,,,,,,
+SKU_0005,DC4,DC4,DC,Northwest,Seattle,Medical Devices & Diagnostics,A,Start Inventory,215,195,173,151,181,293,324,341,318,305,330,430
+SKU_0005,DC4,DC4,DC,Northwest,Seattle,Medical Devices & Diagnostics,A,Total Forecast/Order,20,22,22,22,17,19,18,23,13,21,20,18
+SKU_0005,DC4,DC4,DC,Northwest,Seattle,Medical Devices & Diagnostics,A,Start Backorder,0,0,0,0,0,0,0,0,0,0,0,0
+SKU_0005,DC4,DC4,DC,Northwest,Seattle,Medical Devices & Diagnostics,A,Total Demand,20,22,22,22,17,19,18,23,13,21,20,18
+SKU_0005,DC4,DC4,DC,Northwest,Seattle,Medical Devices & Diagnostics,A,Dist. Receipt Planned,0,0,0,52,129,50,35,0,0,0,120,0
+SKU_0005,DC4,DC4,DC,Northwest,Seattle,Medical Devices & Diagnostics,A,Total Supply,0,0,0,52,129,50,35,0,0,46,120,53
+SKU_0005,DC4,DC4,DC,Northwest,Seattle,Medical Devices & Diagnostics,A,End. Backorder,0,0,0,0,0,0,0,0,0,0,0,0
+SKU_0005,DC4,DC4,DC,Northwest,Seattle,Medical Devices & Diagnostics,A,End. Inventory,195,173,151,181,293,324,341,318,305,330,430,465
+SKU_0005,DC4,DC4,DC,Northwest,Seattle,Medical Devices & Diagnostics,A,Days of Coverage,68.2,55.0,48.0,57.6,120.6,119.4,132.6,96.8,164.2,110.0,150.5,180.8
+SKU_0005,DC4,DC4,DC,Northwest,Seattle,Medical Devices & Diagnostics,A,Target Safety Stock (in Days),28,28,28,28,28,28,28,28,28,28,28,28
+SKU_0005,DC4,DC4,DC,Northwest,Seattle,Medical Devices & Diagnostics,A,Target Safety Stock (in Units),74,74,74,74,74,74,74,74,74,74,74,74
+SKU_0005,DC4,DC4,DC,Northwest,Seattle,Medical Devices & Diagnostics,A,Cycle Stock (in Days),28,28,28,28,28,28,28,28,28,28,28,28
+SKU_0005,DC4,DC4,DC,Northwest,Seattle,Medical Devices & Diagnostics,A,Cycle Stock (in Units),74,74,74,74,74,74,74,74,74,74,74,74
+SKU_0005,DC4,DC4,DC,Northwest,Seattle,Medical Devices & Diagnostics,A,Target Max Stock (in Days),106,106,106,106,106,106,106,106,106,106,106,106
+SKU_0005,DC4,DC4,DC,Northwest,Seattle,Medical Devices & Diagnostics,A,Target Max Stock (in Units),281,281,281,281,281,281,281,281,281,281,281,281
+SKU_0005,DC4,DC4,DC,Northwest,Seattle,Medical Devices & Diagnostics,A,MSTN Thresold,74,74,74,74,74,74,74,74,74,74,74,74
+SKU_0005,DC4,DC4,DC,Northwest,Seattle,Medical Devices & Diagnostics,A,ESTN Thresold,281,281,281,281,281,281,281,281,281,281,281,281
+SKU_0005,DC4,DC4,DC,Northwest,Seattle,Medical Devices & Diagnostics,A,MSTN%,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+SKU_0005,DC4,DC4,DC,Northwest,Seattle,Medical Devices & Diagnostics,A,ESTN%,0.0,0.0,0.0,0.0,0.042705,0.153025,0.213523,0.131673,0.085409,0.174377,0.530249,0.654804
+SKU_0005,DC4,DC4,DC,Northwest,Seattle,Medical Devices & Diagnostics,A,Shortage,0,0,0,0,0,0,0,0,0,0,0,0
+SKU_0005,DC4,DC4,DC,Northwest,Seattle,Medical Devices & Diagnostics,A,Excess,0,0,0,0,12,43,60,37,24,49,149,184
+SKU_0005,DC4,DC4,DC,Northwest,Seattle,Medical Devices & Diagnostics,A,Out of stock Value($),0,0,0,0,0,0,0,0,0,0,0,0
+SKU_0005,DC4,DC4,DC,Northwest,Seattle,Medical Devices & Diagnostics,A,Excess and over($),0,0,0,0,195,701,978,603,391,799,2430,3001
+,,,,,,,,,,,,,,,,,,,,
+SKU_0005,DC5,DC5,DC,Southeast,Miami,Medical Devices & Diagnostics,A,Start Inventory,471,1084,1222,1384,1313,1330,1835,2026,1901,1909,1816,1718
+SKU_0005,DC5,DC5,DC,Southeast,Miami,Medical Devices & Diagnostics,A,Total Forecast/Order,94,107,128,71,91,111,118,125,112,93,98,79
+SKU_0005,DC5,DC5,DC,Southeast,Miami,Medical Devices & Diagnostics,A,Start Backorder,0,0,0,0,0,0,0,0,0,0,0,0
+SKU_0005,DC5,DC5,DC,Southeast,Miami,Medical Devices & Diagnostics,A,Total Demand,94,107,128,71,91,111,118,125,112,93,98,79
+SKU_0005,DC5,DC5,DC,Southeast,Miami,Medical Devices & Diagnostics,A,Dist. Receipt Planned,707,245,290,0,0,616,0,0,0,0,0,0
+SKU_0005,DC5,DC5,DC,Southeast,Miami,Medical Devices & Diagnostics,A,Total Supply,707,245,290,0,108,616,309,0,120,0,0,0
+SKU_0005,DC5,DC5,DC,Southeast,Miami,Medical Devices & Diagnostics,A,End. Backorder,0,0,0,0,0,0,0,0,0,0,0,0
+SKU_0005,DC5,DC5,DC,Southeast,Miami,Medical Devices & Diagnostics,A,End. Inventory,1084,1222,1384,1313,1330,1835,2026,1901,1909,1816,1718,1639
+SKU_0005,DC5,DC5,DC,Southeast,Miami,Medical Devices & Diagnostics,A,Days of Coverage,80.7,79.9,75.7,129.5,102.3,115.7,120.2,106.5,119.3,136.7,122.7,145.2
+SKU_0005,DC5,DC5,DC,Southeast,Miami,Medical Devices & Diagnostics,A,Target Safety Stock (in Days),28,28,28,28,28,28,28,28,28,28,28,28
+SKU_0005,DC5,DC5,DC,Southeast,Miami,Medical Devices & Diagnostics,A,Target Safety Stock (in Units),414,414,414,414,414,414,414,414,414,414,414,414
+SKU_0005,DC5,DC5,DC,Southeast,Miami,Medical Devices & Diagnostics,A,Cycle Stock (in Days),21,21,21,21,21,21,21,21,21,21,21,21
+SKU_0005,DC5,DC5,DC,Southeast,Miami,Medical Devices & Diagnostics,A,Cycle Stock (in Units),310,310,310,310,310,310,310,310,310,310,310,310
+SKU_0005,DC5,DC5,DC,Southeast,Miami,Medical Devices & Diagnostics,A,Target Max Stock (in Days),93,93,93,93,93,93,93,93,93,93,93,93
+SKU_0005,DC5,DC5,DC,Southeast,Miami,Medical Devices & Diagnostics,A,Target Max Stock (in Units),1382,1382,1382,1382,1382,1382,1382,1382,1382,1382,1382,1382
+SKU_0005,DC5,DC5,DC,Southeast,Miami,Medical Devices & Diagnostics,A,MSTN Thresold,414,414,414,414,414,414,414,414,414,414,414,414
+SKU_0005,DC5,DC5,DC,Southeast,Miami,Medical Devices & Diagnostics,A,ESTN Thresold,1382,1382,1382,1382,1382,1382,1382,1382,1382,1382,1382,1382
+SKU_0005,DC5,DC5,DC,Southeast,Miami,Medical Devices & Diagnostics,A,MSTN%,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+SKU_0005,DC5,DC5,DC,Southeast,Miami,Medical Devices & Diagnostics,A,ESTN%,0.0,0.0,0.001447,0.0,0.0,0.327786,0.465991,0.375543,0.381331,0.314038,0.243126,0.185962
+SKU_0005,DC5,DC5,DC,Southeast,Miami,Medical Devices & Diagnostics,A,Shortage,0,0,0,0,0,0,0,0,0,0,0,0
+SKU_0005,DC5,DC5,DC,Southeast,Miami,Medical Devices & Diagnostics,A,Excess,0,0,2,0,0,453,644,519,527,434,336,257
+SKU_0005,DC5,DC5,DC,Southeast,Miami,Medical Devices & Diagnostics,A,Out of stock Value($),0,0,0,0,0,0,0,0,0,0,0,0
+SKU_0005,DC5,DC5,DC,Southeast,Miami,Medical Devices & Diagnostics,A,Excess and over($),0,0,40,0,0,9232,13124,10577,10740,8844,6847,5237
+,,,,,,,,,,,,,,,,,,,,
+SKU_0005,F1,F1,Factory,Midwest,Detroit,Medical Devices & Diagnostics,A,Start Inventory,1524,2410,3010,3518,3164,3930,4471,4388,6350,7251,8073,8325
+SKU_0005,F1,F1,Factory,Midwest,Detroit,Medical Devices & Diagnostics,A,Total Forecast/Order,985,290,198,354,1344,80,678,135,27,165,244,0
+SKU_0005,F1,F1,Factory,Midwest,Detroit,Medical Devices & Diagnostics,A,Start Backorder,0,0,0,0,0,0,0,0,0,0,0,0
+SKU_0005,F1,F1,Factory,Midwest,Detroit,Medical Devices & Diagnostics,A,Total Demand,985,290,198,354,1344,80,678,135,27,165,244,0
+SKU_0005,F1,F1,Factory,Midwest,Detroit,Medical Devices & Diagnostics,A,Dist. Receipt Planned,1871,890,0,0,2110,621,595,2097,928,987,0,825
+SKU_0005,F1,F1,Factory,Midwest,Detroit,Medical Devices & Diagnostics,A,Total Supply,1871,890,706,0,2110,621,595,2097,928,987,496,825
+SKU_0005,F1,F1,Factory,Midwest,Detroit,Medical Devices & Diagnostics,A,End. Backorder,0,0,0,0,0,0,0,0,0,0,0,0
+SKU_0005,F1,F1,Factory,Midwest,Detroit,Medical Devices & Diagnostics,A,End. Inventory,2410,3010,3518,3164,3930,4471,4388,6350,7251,8073,8325,9150
+SKU_0005,F1,F1,Factory,Midwest,Detroit,Medical Devices & Diagnostics,A,Days of Coverage,17.1,72.7,124.4,62.6,20.5,391.2,45.3,329.3,1879.9,342.5,238.8,0
+SKU_0005,F1,F1,Factory,Midwest,Detroit,Medical Devices & Diagnostics,A,Target Safety Stock (in Days),28,28,28,28,28,28,28,28,28,28,28,28
+SKU_0005,F1,F1,Factory,Midwest,Detroit,Medical Devices & Diagnostics,A,Target Safety Stock (in Units),1033,1033,1033,1033,1033,1033,1033,1033,1033,1033,1033,1033
+SKU_0005,F1,F1,Factory,Midwest,Detroit,Medical Devices & Diagnostics,A,Cycle Stock (in Days),28,28,28,28,28,28,28,28,28,28,28,28
+SKU_0005,F1,F1,Factory,Midwest,Detroit,Medical Devices & Diagnostics,A,Cycle Stock (in Units),1033,1033,1033,1033,1033,1033,1033,1033,1033,1033,1033,1033
+SKU_0005,F1,F1,Factory,Midwest,Detroit,Medical Devices & Diagnostics,A,Target Max Stock (in Days),84,84,84,84,84,84,84,84,84,84,84,84
+SKU_0005,F1,F1,Factory,Midwest,Detroit,Medical Devices & Diagnostics,A,Target Max Stock (in Units),3086,3086,3086,3086,3086,3086,3086,3086,3086,3086,3086,3086
+SKU_0005,F1,F1,Factory,Midwest,Detroit,Medical Devices & Diagnostics,A,MSTN Thresold,1033,1033,1033,1033,1033,1033,1033,1033,1033,1033,1033,1033
+SKU_0005,F1,F1,Factory,Midwest,Detroit,Medical Devices & Diagnostics,A,ESTN Thresold,3086,3086,3086,3086,3086,3086,3086,3086,3086,3086,3086,3086
+SKU_0005,F1,F1,Factory,Midwest,Detroit,Medical Devices & Diagnostics,A,MSTN%,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0,1.0
+SKU_0005,F1,F1,Factory,Midwest,Detroit,Medical Devices & Diagnostics,A,ESTN%,0.0,0.0,0.139987,0.025275,0.273493,0.448801,0.421905,1.05768,1.349644,1.616008,1.697667,1.965003
+SKU_0005,F1,F1,Factory,Midwest,Detroit,Medical Devices & Diagnostics,A,Shortage,0,0,0,0,0,0,0,0,0,0,0,0
+SKU_0005,F1,F1,Factory,Midwest,Detroit,Medical Devices & Diagnostics,A,Excess,0,0,432,78,844,1385,1302,3264,4165,4987,5239,6064
+SKU_0005,F1,F1,Factory,Midwest,Detroit,Medical Devices & Diagnostics,A,Out of stock Value($),0,0,0,0,0,0,0,0,0,0,0,0
+SKU_0005,F1,F1,Factory,Midwest,Detroit,Medical Devices & Diagnostics,A,Excess and over($),0,0,14372,2595,28079,46078,43317,108593,138569,165917,174301,201749
+,,,,,,,,,,,,,,,,,,,,
